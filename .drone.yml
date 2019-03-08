@@ -18,7 +18,7 @@ bootstrap_common: &bootstrap_common
     - if test "$${FORCED_OS_VERSION}" != ""; then if test "$${FORCED_OS_VERSION}" != "${OS_VERSION}"; then echo "step bypass"; exit 0; fi; fi
     - mkdir -p /opt/metwork-mfext-$${TARGET_DIR}
 
-    - ./bootstrap.sh /opt/metwork-mfext-$${TARGET_DIR} /opt/metwork--$${DEP_DIR}
+    - ./bootstrap.sh /opt/metwork-mfext-$${TARGET_DIR}
 
     - cat adm/root.mk
 
@@ -51,25 +51,8 @@ publish_ci_common: &publish_ci_common
     - touch /buildcache/build_mfextaddon_python3_ia_${DRONE_BRANCH}_`cat .drone_cache`
   volumes:
     - /pub:/pub
+    - /private:/private
     - /buildcache:/buildcache
-
-
-integration_tests_common: &integration_tests_common
-  commands:
-    - if test "$${FORCED_OS_VERSION}" != ""; then if test "$${FORCED_OS_VERSION}" != "${OS_VERSION}"; then echo "step bypass"; exit 0; fi; fi
-    - if test "${DRONE_TAG}" = ""; then if ! test -f .drone_cache; then echo "step bypass"; exit 0; fi; fi
-
-    - echo -e "[metwork_${DRONE_BRANCH}]" >/etc/yum.repos.d/metwork.repo
-    - echo -e "name=Metwork Continuous Integration Branch ${DRONE_BRANCH}" >> /etc/yum.repos.d/metwork.repo
-    - echo -e "baseurl=http://metwork-framework.org/pub/metwork/continuous_integration/rpms/${DRONE_BRANCH}/${OS_VERSION}/" >> /etc/yum.repos.d/metwork.repo
-    - echo -e "gpgcheck=0\n\enabled=1\n\metadata_expire=0\n" >>/etc/yum.repos.d/metwork.repo
-    - yum -y localinstall metwork-mfextaddon_python3_ia*.rpm
-    - su --command="mfextaddon_python3_ia.init" - mfextaddon_python3_ia
-    - su --command="mfextaddon_python3_ia.start" - mfextaddon_python3_ia
-    - su --command="mfextaddon_python3_ia.status" - mfextaddon_python3_ia
-    - if test -d "integration_tests"; then chown -R mfextaddon_python3_ia integration_tests; fi
-    - su --command="cd `pwd`; ./run_integration_tests.sh" - mfextaddon_python3_ia
-    - su --command="mfextaddon_python3_ia.stop" - mfextaddon_python3_ia
 
 
 
@@ -147,21 +130,6 @@ pipeline:
       ref: refs/tags/v*
 
 
-  integration_tests_integration:
-    <<: *integration_tests_common
-    image: centos:${OS_VERSION}
-    when:
-
-      event: [push, pull_request]
-
-      branch: [ integration, ci_*, pci_* ]
-  integration_tests:
-    <<: *integration_tests_common
-    image: centos:${OS_VERSION}
-    when:
-      event: push
-      branch: [ master, release_*, experimental* ]
-
 
   publish_ci_integration:
     <<: *publish_ci_common
@@ -179,6 +147,7 @@ pipeline:
     image: metwork/mfxxx-${OS_VERSION}-buildimage:${DRONE_BRANCH}
     volumes:
       - /pub:/pub
+      - /private:/private
     commands:
       - if test "$${FORCED_OS_VERSION}" != ""; then if test "$${FORCED_OS_VERSION}" != "${OS_VERSION}"; then echo "step bypass"; exit 0; fi; fi
       - mkdir -p /private/metwork_addons/releases/rpms/${DRONE_BRANCH}/${OS_VERSION}/
