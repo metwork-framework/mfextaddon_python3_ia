@@ -164,7 +164,6 @@ pipeline:
 
 matrix:
   OS_VERSION:
-
-    - centos7
+- centos7
 
 branches: [ master, integration, experimental*, ci_*, pci_*, release_* ]
