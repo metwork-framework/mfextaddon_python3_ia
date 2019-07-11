@@ -34,6 +34,9 @@ build_common: &build_common
 
     - mkdir -p /opt/metwork-mfext-$${TARGET_DIR}
     - yum -y install metwork-mfext-layer-python3_scientific
+    - wget https://github.com/bazelbuild/bazel/releases/download/0.25.2/bazel-0.25.2-installer-linux-x86_64.sh
+    - chmod +x bazel-0.25.2-installer-linux-x86_64.sh
+    - ./bazel-0.25.2-installer-linux-x86_64.sh
     - make
 
     - make test
