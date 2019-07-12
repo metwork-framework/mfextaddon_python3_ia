@@ -2,15 +2,15 @@
 
 
 
+    
+    
 
 
 
-
-
-
-
-
-
+    
+        
+        
+    
 
 
 bootstrap_common: &bootstrap_common
@@ -37,11 +37,15 @@ build_common: &build_common
     - wget https://github.com/bazelbuild/bazel/releases/download/0.25.2/bazel-0.25.2-installer-linux-x86_64.sh
     - chmod +x bazel-0.25.2-installer-linux-x86_64.sh
     - ./bazel-0.25.2-installer-linux-x86_64.sh
-    - make
-
-    - make test
-    - make RELEASE_BUILD=${DRONE_BUILD_NUMBER} rpm
+    - mkdir -p /pub/metwork/continuous_integration/buildlogs/${DRONE_BRANCH}/mfextaddon_python3_ia/${OS_VERSION}/${DRONE_BUILD_NUMBER}
+    - make >/pub/metwork/continuous_integration/buildlogs/${DRONE_BRANCH}/mfextaddon_python3_ia/${OS_VERSION}/${DRONE_BUILD_NUMBER}/make.log 2>&1
+    - make test >>/pub/metwork/continuous_integration/buildlogs/${DRONE_BRANCH}/mfextaddon_python3_ia/${OS_VERSION}/${DRONE_BUILD_NUMBER}/make.log 2>&1
+    - make RELEASE_BUILD=${DRONE_BUILD_NUMBER} rpm >>/pub/metwork/continuous_integration/buildlogs/${DRONE_BRANCH}/mfextaddon_python3_ia/${OS_VERSION}/${DRONE_BUILD_NUMBER}/make.log 2>&1
     - mv /opt/metwork-mfext-$${TARGET_DIR}/*.rpm .
+  volumes:
+    - /pub:/pub
+    - /private:/private
+    - /buildcache:/buildcache
 
 
 publish_ci_common: &publish_ci_common
