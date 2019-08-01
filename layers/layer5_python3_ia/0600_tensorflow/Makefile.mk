@@ -20,7 +20,7 @@ export TF_NEED_CUDA=0
 export TF_DOWNLOAD_CLANG=0
 export TF_NEED_MPI=0
 export TF_SET_ANDROID_WORKSPACE=0
-export CC_OPT_FLAGS="-march=native -Wno-sign-compare"
+export CC_OPT_FLAGS="-mavx -msse4.2 -Wno-sign-compare"
 
 GCC_VERSION = `gcc --version | head -1 | cut -d" " -f3 | cut -d"." -f1-2`
 DEVTOOLSET = 7
