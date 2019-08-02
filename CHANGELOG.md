@@ -8,6 +8,9 @@
 - upgrade to python 3.7 and update requirements
 
 
+### Bug Fixes
+- more portable build (with older CPU)
+
 
 
 
