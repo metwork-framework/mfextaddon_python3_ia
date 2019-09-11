@@ -16,4 +16,9 @@ doc/layer_scientific.rst
 doc/mfextaddon_scientific_intro.rst
 doc/CHANGELOG*.md
 doc/CHANGELOG*.rst
-doc/changelogs.rst 
+doc/changelogs.rst
+doc/components.md
+doc/components.rst
+doc/layer_python3_ia.rst
+doc/README.md
+doc/README.rst
