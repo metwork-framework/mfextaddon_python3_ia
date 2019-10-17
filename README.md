@@ -97,7 +97,7 @@ $ python
 
 
 
-## Cheatsheet
+## Cheatsheet
 
 A cheatsheet for this module is available [here](.metwork-framework/cheatsheet.md)
 
