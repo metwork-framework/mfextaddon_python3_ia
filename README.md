@@ -20,109 +20,19 @@
 This module is a [mfext](https://github.com/metwork-framework/mfext) add-on which
 provides machine learning/IA libraries for use in [MetWork Framework](http://metwork-framework.org) env.
 
-**WARNING: this addon works only in CENTOS7 distribution**
-
-## Provided layers
-
-This add-on provides only one layer:
-
-- `python3_ia@mfext` (machine learning/IA libraries for Python3)
-
-## Provides useful packages
-
-So, to install this add-on, you have to install:
-
-- `metwork-mfext-layer-python3_ia` package
-
-## Quickstart
-
-```console
-
-$ ##### As root user #####
-
-$ # We install the Python3 IA layer
-$ yum -y install metwork-mfext-layer-python3_ia
-
-
-$ ##### As lambda user #####
-
-$ # We load the mfext environment (if it is not already done)
-$ . /opt/metwork-mfext/share/interactive_profile
-
-$ # We check that the layer is installed and loaded
-$ layers |grep ia
-- (*) python3_ia@mfext [/opt/metwork-mfext/opt/python3_ia]
-
-$ # Let's test
-$ python
->>> import tensorflow
->>> # :-)
-```
+**WARNING: this addon does not work under CentOS6 distribution**
 
 
 
 
+## Quickstart, installation guide...
 
-
-
-
-
-## Full list of components
-
-| Name | Version | Layer |
-| --- | --- | --- |
-| [absl-py](https://github.com/abseil/abseil-py) | 0.8.1 | python3_ia |
-| [astor](https://github.com/berkerpeksag/astor) | 0.8.0 | python3_ia |
-| [certifi](https://certifi.io/) | 2019.3.9 | python3_ia |
-| [gast](https://github.com/serge-sans-paille/gast/) | 0.3.2 | python3_ia |
-| [google-pasta](https://pypi.org/project/google-pasta) | 0.1.7 | python3_ia |
-| [grpcio](https://grpc.io) | 1.24.1 | python3_ia |
-| [Keras-Applications](https://github.com/keras-team/keras-applications) | 1.0.8 | python3_ia |
-| [Keras-Preprocessing](https://github.com/keras-team/keras-preprocessing) | 1.1.0 | python3_ia |
-| [Keras](https://github.com/keras-team/keras) | 2.3.1 | python3_ia |
-| [Markdown](https://Python-Markdown.github.io/) | 3.1.1 | python3_ia |
-| [protobuf](https://developers.google.com/protocol-buffers/) | 3.10.0 | python3_ia |
-| [tensorboard](https://github.com/tensorflow/tensorboard) | 1.14.0 | python3_ia |
-| [tensorflow-estimator](https://www.tensorflow.org/) | 1.14.0 | python3_ia |
-| [tensorflow](https://www.tensorflow.org/) | 1.14.0 | python3_ia |
-| [termcolor](http://pypi.python.org/pypi/termcolor) | 1.1.0 | python3_ia |
-| [torch](https://pytorch.org/) | 1.3.0 | python3_ia |
-| [wrapt](https://github.com/GrahamDumpleton/wrapt) | 1.11.2 | python3_ia |
-
-*(17 components)*
-
-
-
-
-
-
-
-
-
-
-## Reference documentation
-
-- (for **master (development)** version), see [this dedicated site](http://metwork-framework.org/pub/metwork/continuous_integration/docs/master/mfextaddon_python3_ia/) for reference documentation.
-- (for **latest released stable** version), see [this dedicated site](http://metwork-framework.org/pub/metwork/releases/docs/stable/mfextaddon_python3_ia/) for reference documentation.
+Please consult the [reference documentation](http://metwork-framework.org/pub/metwork/continuous_integration/docs/master/mfextaddon_python3_ia/).
 
 For very specific use cases, you might be interested in
 [reference documentation for integration branch](http://metwork-framework.org/pub/metwork/continuous_integration/docs/integration/mfextaddon_python3_ia/).
 
 And if you are looking for an old released version, you can search [here](http://metwork-framework.org/pub/metwork/releases/docs/).
-
-
-
-## Installation guide
-
-See [this document](.metwork-framework/install_a_metwork_package.md).
-
-
-## Configuration guide
-
-See [this document](.metwork-framework/configure_a_metwork_package.md).
-
-
-
 
 
 ## Contributing guide
