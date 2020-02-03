@@ -23,8 +23,8 @@ export TF_SET_ANDROID_WORKSPACE=0
 export CC_OPT_FLAGS="-mavx -msse4.2 -Wno-sign-compare"
 
 all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME)-$(VERSION).dist-info
-	echo "$(NAME)==$(VERSION)" > requirements3.txt
 $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME)-$(VERSION).dist-info:
+	echo "$(NAME)==$(VERSION)" > requirements3.txt
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard download uncompress
 	cd build/$(NAME)-$(VERSION) && ./configure && bazel build --config=opt //tensorflow/tools/pip_package:build_pip_package && ./bazel-bin/tensorflow/tools/pip_package/build_pip_package tensorflow.pkg
 	install_requirements $(PREFIX) requirements3.txt build/$(NAME)-$(VERSION)/tensorflow.pkg
