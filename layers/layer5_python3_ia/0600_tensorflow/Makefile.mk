@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=tensorflow
-export VERSION=1.14.0
+export VERSION=2.3.0
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=0fba23db45364ab9582abb0611fde738
+export CHECKSUM=35516e67ad3c2136cc6cd21f7c911928
 DESCRIPTION=\
 TENSORFLOW is An Open Source Machine Learning Framework for Everyone
 WEBSITE=https://www.tensorflow.org
