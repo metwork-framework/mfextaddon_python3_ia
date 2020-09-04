@@ -28,7 +28,7 @@ all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME)-$(VERSI
 $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME)-$(VERSION).dist-info:
 	echo "$(NAME)==$(VERSION)" > requirements3.txt
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard download uncompress
-	cd build/$(NAME)-$(VERSION) && ./configure && bazel clean && bazel build --action_env=CXX=/opt/rh/devtoolset-8/root/usr/bin/g++ --action_env=CC=/opt/rh/devtoolset-8/root/usr/bin/gcc --config=opt //tensorflow/tools/pip_package:build_pip_package && ./bazel-bin/tensorflow/tools/pip_package/build_pip_package tensorflow.pkg
+	cd build/$(NAME)-$(VERSION) && ./configure && bazel clean && bazel build --action_env=CXX=/opt/rh/devtoolset-8/root/usr/bin/g++ --action_env=CC=/opt/rh/devtoolset-8/root/usr/bin/gcc --verbose_failures --config=opt //tensorflow/tools/pip_package:build_pip_package && ./bazel-bin/tensorflow/tools/pip_package/build_pip_package tensorflow.pkg
 	install_requirements $(PREFIX) requirements3.txt build/$(NAME)-$(VERSION)/tensorflow.pkg
 	cat $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/requirements3.txt requirements3.txt |sort |uniq> $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/requirements3.tmp
 	mv $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/requirements3.tmp $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/requirements3.txt
