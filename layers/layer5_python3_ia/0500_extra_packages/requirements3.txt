@@ -5,9 +5,6 @@ certifi==2019.3.9
 gast==0.3.3
 google-pasta==0.1.8
 grpcio==1.24.3
-Keras==2.3.1
-Keras-Applications==1.0.8
-Keras-Preprocessing==1.1.1
 Markdown==3.1.1
 opt_einsum==2.3.2
 tensorboard==2.3.0
