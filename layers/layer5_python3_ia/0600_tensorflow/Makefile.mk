@@ -23,8 +23,8 @@ export TF_SET_ANDROID_WORKSPACE=0
 export CC_OPT_FLAGS="-mavx -msse4.2 -Wno-sign-compare"
 #BAZEL_LINK options to fix build with devtoolset-8
 #See https://github.com/bazelbuild/bazel/issues/10327
-export BAZEL_LINKLIBS=""
-export BAZEL_LINKOPTS="-lstdc++:-lm"
+export BAZEL_LINKOPTS=-static-libstdc++
+export BAZEL_LINKLIBS=-l%:libstdc++.a
 
 all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME)-$(VERSION).dist-info
 $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME)-$(VERSION).dist-info:
