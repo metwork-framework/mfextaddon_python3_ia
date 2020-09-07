@@ -24,7 +24,7 @@ export CC_OPT_FLAGS="-mavx -msse4.2 -Wno-sign-compare"
 #BAZEL_LINK options to fix build with devtoolset-8
 #See https://github.com/bazelbuild/bazel/issues/10327
 export BAZEL_LINKOPTS=""
-export BAZEL_LINKLIBS="-lstdc++"
+export BAZEL_LINKLIBS="-lstdc++:-lm"
 
 all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME)-$(VERSION).dist-info
 $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME)-$(VERSION).dist-info:
