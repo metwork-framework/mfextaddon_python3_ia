@@ -12,7 +12,7 @@ WEBSITE=https://www.tensorflow.org
 LICENSE=Apache License, Version 2.0
 
 export PYTHON_BIN_PATH=$(PREFIX)/../python3_core/bin/python3
-export PYTHON_LIB_PATH=$(PREFIX)/lib:$(PREFIX)/../python3_scientific/lib:$(PREFIX)/../python3_core/lib:$(PREFIX)/../python3/lib
+export PYTHON_LIB_PATH=$(PREFIX)/../python3_core/lib/python3.7/site-packages
 export USE_DEFAULT_PYTHON_LIB_PATH=0
 export TF_ENABLE_XLA=1
 export TF_NEED_OPENCL_SYCL=0
