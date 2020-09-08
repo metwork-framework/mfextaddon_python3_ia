@@ -28,6 +28,8 @@ export BAZEL_LINKLIBS=-l%:libstdc++.a
 
 all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME)-$(VERSION).dist-info
 $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME)-$(VERSION).dist-info:
+	env | grep PYTHON
+	env | grep PATH
 	echo "$(NAME)==$(VERSION)" > requirements3.txt
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard download uncompress
 	cd build/$(NAME)-$(VERSION) && ./configure && bazel clean && bazel build --verbose_failures --config=opt //tensorflow/tools/pip_package:build_pip_package && ./bazel-bin/tensorflow/tools/pip_package/build_pip_package tensorflow.pkg
