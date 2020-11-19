@@ -15,6 +15,5 @@
 | [tensorflow](https://www.tensorflow.org/) | 1.14.0 | python3_ia |
 | [termcolor](http://pypi.python.org/pypi/termcolor) | 1.1.0 | python3_ia |
 | [torch](https://pytorch.org/) | 1.3.0 | python3_ia |
-| [wrapt](https://github.com/GrahamDumpleton/wrapt) | 1.11.2 | python3_ia |
 
-*(16 components)*
+*(15 components)*
