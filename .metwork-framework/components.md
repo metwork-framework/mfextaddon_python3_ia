@@ -1,7 +1,7 @@
 | Name | Version | Layer |
 | --- | --- | --- |
 | [absl-py](https://github.com/abseil/abseil-py) | 0.8.1 | python3_ia |
-| [astor](https://github.com/berkerpeksag/astor) | 0.8.0 | python3_ia |
+| [astor](https://github.com/berkerpeksag/astor) | 0.8.1 | python3_ia |
 | [certifi](https://certifi.io/) | 2019.3.9 | python3_ia |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.3.2 | python3_ia |
 | [google-pasta](https://pypi.org/project/google-pasta) | 0.1.7 | python3_ia |
