@@ -9,11 +9,10 @@
 | [Keras-Applications](https://github.com/keras-team/keras-applications) | 1.0.8 | python3_ia |
 | [Keras-Preprocessing](https://github.com/keras-team/keras-preprocessing) | 1.1.0 | python3_ia |
 | [Keras](https://github.com/keras-team/keras) | 2.3.1 | python3_ia |
-| [Markdown](https://Python-Markdown.github.io/) | 3.1.1 | python3_ia |
 | [tensorboard](https://github.com/tensorflow/tensorboard) | 1.14.0 | python3_ia |
 | [tensorflow-estimator](https://www.tensorflow.org/) | 1.14.0 | python3_ia |
 | [tensorflow](https://www.tensorflow.org/) | 1.14.0 | python3_ia |
 | [termcolor](http://pypi.python.org/pypi/termcolor) | 1.1.0 | python3_ia |
 | [torch](https://pytorch.org/) | 1.3.0 | python3_ia |
 
-*(15 components)*
+*(14 components)*
