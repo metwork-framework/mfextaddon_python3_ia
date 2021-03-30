@@ -1,2 +1,3 @@
 keras
-torch
+#torch<1.4.0 is not python 3.8 compliant
+torch>=1.4.0
