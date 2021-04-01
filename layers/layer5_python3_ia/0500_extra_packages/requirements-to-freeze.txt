@@ -1,8 +1,4 @@
-#scipy>=1.3.3 to build on CentOS7
-scipy>=1.3.3
-numpy
-protobuf
-h5py
 keras
 #torch<1.4.0 is not python 3.8 compliant
 torch>=1.4.0
+tensorflow==2.2.2
