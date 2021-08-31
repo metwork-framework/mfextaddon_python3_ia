@@ -96,8 +96,6 @@ fi
 
 
     
-            
-            
     
 
 
@@ -107,8 +105,8 @@ echo "::set-output name=tag::${TAG}"
 echo "::set-output name=dep_branch::${DEP_BRANCH}"
 echo "::set-output name=target_dir::${TARGET_DIR}"
 echo "::set-output name=dep_dir::${DEP_DIR}"
-echo "::set-output name=buildimage::metwork/mfextaddon_python3_ia-centos7-buildimage:${DEP_BRANCH}"
-echo "::set-output name=testimage::metwork/mfxxx-centos7-testimage:${DEP_BRANCH}"
+echo "::set-output name=buildimage::metwork/mfxxx-${OS_VERSION}-buildimage:${DEP_BRANCH}"
+echo "::set-output name=testimage::metwork/mfxxx-${OS_VERSION}-testimage:${DEP_BRANCH}"
 echo "::set-output name=buildlog_dir::/pub/metwork/${CI}/buildlogs/${B}/mfextaddon_python3_ia/${OS_VERSION}/${GITHUB_RUN_NUMBER}"
 
 echo "::set-output name=rpm_dir::/pub/metwork/${CI}/rpms/${B}/${OS_VERSION}"
