@@ -17,6 +17,8 @@ export DRONE=true
 
 
 
+    yum install -y metwork-mfext-layer-python3_scientific-${BRANCH##release_}
+
 
 
 cd /src
