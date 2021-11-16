@@ -21,7 +21,7 @@
 | [tensorboard-plugin-wit](https://whatif-tool.dev) | 1.8.0 | python3_ia |
 | [tensorboard](https://github.com/tensorflow/tensorboard) | 2.5.0 | python3_ia |
 | [tensorflow-estimator](https://www.tensorflow.org/) | 2.5.0 | python3_ia |
-| [tensorflow](https://www.tensorflow.org/) | 2.5.1 | python3_ia |
+| [tensorflow](https://www.tensorflow.org/) | 2.5.2 | python3_ia |
 | [termcolor](http://pypi.python.org/pypi/termcolor) | 1.1.0 | python3_ia |
 | [torch](https://pytorch.org/) | 1.8.1 | python3_ia |
 
