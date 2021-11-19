@@ -6,6 +6,8 @@
 
 ## v0.9.0 (2019-10-22)
 
-- No interesting change
+### New Features
+
+- add pytorch component
 
 
