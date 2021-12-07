@@ -24,4 +24,4 @@
 | [termcolor](http://pypi.python.org/pypi/termcolor) | 1.1.0 | python3_ia |
 | [torch](https://pytorch.org/) | 1.8.1 | python3_ia |
 
-*(24 components)*
+*(23 components)*
