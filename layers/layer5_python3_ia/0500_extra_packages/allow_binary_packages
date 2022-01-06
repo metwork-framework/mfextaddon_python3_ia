@@ -1,7 +1,6 @@
 absl-py
 astunparse
 flatbuffers
-gast
 google-auth
 google-auth-oauthlib
 google-pasta
