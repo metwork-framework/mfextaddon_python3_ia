@@ -1,6 +1,5 @@
-keras
-#torch<1.4.0 is not python 3.8 compliant
+#keras is now packaged in tensorflow as tensorflow.keras... but tensorflow requires keras !
+#So, to ensure compatibility between keras and tensorflow, keras is only installed as a tensorflow dependency
 torch>=1.4.0
-#tensorflow<2.2.0 is not python 3.8 compliant
 tensorflow==2.5.2
-#requirements for tensorflow==2.5.1
+#tensorflow 2.5.2 requires keras-nightly instead of keras. Back to keras in tensorflow >= 2.6
