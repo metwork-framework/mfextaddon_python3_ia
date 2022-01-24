@@ -8,6 +8,7 @@ grpcio
 Keras
 keras-nightly
 Keras-Preprocessing
+libclang
 oauthlib
 opt-einsum
 pyasn1
@@ -19,4 +20,5 @@ tensorboard-data-server
 tensorboard-plugin-wit
 tensorflow
 tensorflow-estimator
+tensorflow-io-gcs-filesystem
 torch
