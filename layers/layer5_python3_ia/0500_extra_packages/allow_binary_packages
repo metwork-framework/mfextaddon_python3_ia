@@ -21,4 +21,5 @@ tensorboard-plugin-wit
 tensorflow
 tensorflow-estimator
 tensorflow-io-gcs-filesystem
+tf-estimator-nightly
 torch
