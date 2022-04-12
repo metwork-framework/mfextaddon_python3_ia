@@ -1,1 +1,4 @@
-libcuda.so.1
+libcroco-0.6.so.3
+libhogweed.so.4
+libjbig.so.2.1
+libnettle.so.6libcuda.so.1
