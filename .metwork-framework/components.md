@@ -19,10 +19,10 @@
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.6.1 | python3_ia |
 | [tensorboard-plugin-wit](https://whatif-tool.dev) | 1.8.0 | python3_ia |
 | [tensorboard](https://github.com/tensorflow/tensorboard) | 2.8.0 | python3_ia |
+| [tensorflow-estimator](https://www.tensorflow.org/) | 2.8.0 | python3_ia |
 | [tensorflow-io-gcs-filesystem](https://github.com/tensorflow/io) | 0.23.1 | python3_ia |
-| [tensorflow](https://www.tensorflow.org/) | 2.8.0 | python3_ia |
+| [tensorflow](https://www.tensorflow.org/) | 2.8.2 | python3_ia |
 | [termcolor](http://pypi.python.org/pypi/termcolor) | 1.1.0 | python3_ia |
-| [tf-estimator-nightly](https://www.tensorflow.org/) | 2.8.0.dev2021122109 | python3_ia |
 | [torch](https://pytorch.org/) | 1.8.1 | python3_ia |
 
 *(24 components)*
