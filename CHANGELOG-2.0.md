@@ -1,5 +1,11 @@
 # release_2.0 CHANGELOG
 
+## v2.0.1 (2022-06-01)
+
+### New Features
+
+- bump tensorflow from 2.8.0 to 2.8.2 to fix vulnerabilities (backport #86) (#87)
+
 ## v2.0.0 (2022-04-13)
 
 ### New Features
