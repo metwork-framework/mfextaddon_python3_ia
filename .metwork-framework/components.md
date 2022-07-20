@@ -6,7 +6,7 @@
 | [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 0.4.4 | python3_ia |
 | [google-auth](https://github.com/googleapis/google-auth-library-python) | 1.28.0 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
-| [grpcio](https://grpc.io) | 1.34.0 | python3_ia |
+| [grpcio](https://grpc.io) | 1.41.1 | python3_ia |
 | [Keras-Preprocessing](https://github.com/keras-team/keras-preprocessing) | 1.1.2 | python3_ia |
 | [keras](https://keras.io/) | 2.8.0 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 12.0.0 | python3_ia |
@@ -23,6 +23,6 @@
 | [tensorflow-io-gcs-filesystem](https://github.com/tensorflow/io) | 0.23.1 | python3_ia |
 | [tensorflow](https://www.tensorflow.org/) | 2.8.2 | python3_ia |
 | [termcolor](http://pypi.python.org/pypi/termcolor) | 1.1.0 | python3_ia |
-| [torch](https://pytorch.org/) | 1.8.1 | python3_ia |
+| [torch](https://pytorch.org/) | 1.11.0 | python3_ia |
 
 *(24 components)*
