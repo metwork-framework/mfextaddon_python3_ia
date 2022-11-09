@@ -4,7 +4,7 @@
 | [astunparse](https://github.com/simonpercivall/astunparse) | 1.6.3 | python3_ia |
 | [flatbuffers](https://google.github.io/flatbuffers/) | 1.12 | python3_ia |
 | [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 0.4.4 | python3_ia |
-| [google-auth](https://github.com/googleapis/google-auth-library-python) | 1.28.0 | python3_ia |
+| [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.4.1 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
 | [grpcio](https://grpc.io) | 1.41.1 | python3_ia |
 | [Keras-Preprocessing](https://github.com/keras-team/keras-preprocessing) | 1.1.2 | python3_ia |
