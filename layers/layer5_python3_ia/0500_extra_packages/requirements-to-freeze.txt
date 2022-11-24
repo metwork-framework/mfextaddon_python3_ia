@@ -2,3 +2,7 @@
 #So, to ensure compatibility between keras and tensorflow, keras is only installed as a tensorflow dependency
 torch
 tensorflow
+#tensorflow 2.9.3 requires flatbuffers<2
+flatbuffers<2
+#tensorboard 2.9.1 requires google-auth-oauthlib<0.5 and >=0.4.1
+google-auth-oauthlib<0.5
