@@ -10,6 +10,10 @@
 | [Keras-Preprocessing](https://github.com/keras-team/keras-preprocessing) | 1.1.2 | python3_ia |
 | [keras](https://keras.io/) | 2.9.0 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 14.0.6 | python3_ia |
+| [nvidia-cublas-cu11](https://developer.nvidia.com/cuda-zone) | 11.10.3.66 | python3_ia |
+| [nvidia-cuda-nvrtc-cu11](https://developer.nvidia.com/cuda-zone) | 11.7.99 | python3_ia |
+| [nvidia-cuda-runtime-cu11](https://developer.nvidia.com/cuda-zone) | 11.7.99 | python3_ia |
+| [nvidia-cudnn-cu11](https://developer.nvidia.com/cuda-zone) | 8.5.0.96 | python3_ia |
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
 | [opt-einsum](https://github.com/dgasmith/opt_einsum) | 3.3.0 | python3_ia |
 | [pyasn1-modules](https://github.com/etingof/pyasn1-modules) | 0.2.8 | python3_ia |
@@ -22,6 +26,6 @@
 | [tensorflow-estimator](https://www.tensorflow.org/) | 2.9.0 | python3_ia |
 | [tensorflow-io-gcs-filesystem](https://github.com/tensorflow/io) | 0.28.0 | python3_ia |
 | [tensorflow](https://www.tensorflow.org/) | 2.9.3 | python3_ia |
-| [torch](https://pytorch.org/) | 1.12.1 | python3_ia |
+| [torch](https://pytorch.org/) | 1.13.1 | python3_ia |
 
-*(23 components)*
+*(27 components)*

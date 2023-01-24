@@ -7,6 +7,10 @@ import pasta #google_pasta
 import grpc #grpcio
 import keras_preprocessing
 import clang #libclang
+from nvidia import cudnn
+from nvidia import cuda_nvrtc
+from nvidia import cuda_runtime
+from nvidia import cublas
 import oauthlib
 import opt_einsum
 import pyasn1
