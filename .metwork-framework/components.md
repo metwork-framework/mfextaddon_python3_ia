@@ -10,7 +10,6 @@
 | [Keras-Preprocessing](https://github.com/keras-team/keras-preprocessing) | 1.1.2 | python3_ia |
 | [keras](https://keras.io/) | 2.9.0 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 14.0.6 | python3_ia |
-| [numpy](https://www.numpy.org) | 1.23.5 | python3_ia |
 | [nvidia-cublas-cu11](https://developer.nvidia.com/cuda-zone) | 11.10.3.66 | python3_ia |
 | [nvidia-cuda-nvrtc-cu11](https://developer.nvidia.com/cuda-zone) | 11.7.99 | python3_ia |
 | [nvidia-cuda-runtime-cu11](https://developer.nvidia.com/cuda-zone) | 11.7.99 | python3_ia |
@@ -29,4 +28,4 @@
 | [tensorflow](https://www.tensorflow.org/) | 2.9.3 | python3_ia |
 | [torch](https://pytorch.org/) | 1.13.1 | python3_ia |
 
-*(28 components)*
+*(27 components)*
