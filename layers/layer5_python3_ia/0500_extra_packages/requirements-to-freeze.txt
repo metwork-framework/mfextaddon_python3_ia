@@ -4,3 +4,5 @@ torch
 tensorflow
 flatbuffers
 google-auth-oauthlib
+tensorflow-io
+#ml-dtypes could be build from sources with gcc 10
