@@ -28,8 +28,7 @@
 | [tensorboard](https://github.com/tensorflow/tensorboard) | 2.13.0 | python3_ia |
 | [tensorflow-estimator](https://www.tensorflow.org/) | 2.13.0rc0 | python3_ia |
 | [tensorflow-io-gcs-filesystem](https://github.com/tensorflow/io) | 0.32.0 | python3_ia |
-| [tensorflow-io](https://github.com/tensorflow/io) | 0.32.0 | python3_ia |
 | [tensorflow](https://www.tensorflow.org/) | 2.13.0rc0 | python3_ia |
 | [torch](https://pytorch.org/) | 1.13.1 | python3_ia |
 
-*(31 components)*
+*(30 components)*
