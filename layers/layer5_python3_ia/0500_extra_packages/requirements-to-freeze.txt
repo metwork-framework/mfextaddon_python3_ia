@@ -2,5 +2,6 @@
 #So, to ensure compatibility between keras and tensorflow, keras is only installed as a tensorflow dependency
 torch
 tensorflow
-#tensorboard 2.11.2 requires google-auth-oauthlib<0.5 and >=0.4.1
-google-auth-oauthlib<0.5
+flatbuffers
+google-auth-oauthlib
+#ml-dtypes could be build from sources with gcc 10

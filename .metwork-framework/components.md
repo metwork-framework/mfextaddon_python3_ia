@@ -2,14 +2,17 @@
 | --- | --- | --- |
 | [absl-py](https://github.com/abseil/abseil-py) | 1.3.0 | python3_ia |
 | [astunparse](https://github.com/simonpercivall/astunparse) | 1.6.3 | python3_ia |
-| [flatbuffers](https://google.github.io/flatbuffers/) | 2.0.7 | python3_ia |
-| [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 0.4.6 | python3_ia |
-| [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.14.1 | python3_ia |
+| [flatbuffers](https://google.github.io/flatbuffers/) | 23.3.3 | python3_ia |
+| [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 1.0.0 | python3_ia |
+| [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.17.3 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
 | [grpcio](https://grpc.io) | 1.50.0 | python3_ia |
+| [jax](https://github.com/google/jax) | 0.4.10 | python3_ia |
+| [jaxlib](https://github.com/google/jax) | 0.4.10 | python3_ia |
 | [Keras-Preprocessing](https://github.com/keras-team/keras-preprocessing) | 1.1.2 | python3_ia |
-| [keras](https://keras.io/) | 2.11.0 | python3_ia |
+| [keras](https://keras.io/) | 2.13.1rc0 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 14.0.6 | python3_ia |
+| [ml-dtypes](https://pypi.org/project/ml-dtypes) | 0.1.0 | python3_ia |
 | [nvidia-cublas-cu11](https://developer.nvidia.com/cuda-zone) | 11.10.3.66 | python3_ia |
 | [nvidia-cuda-nvrtc-cu11](https://developer.nvidia.com/cuda-zone) | 11.7.99 | python3_ia |
 | [nvidia-cuda-runtime-cu11](https://developer.nvidia.com/cuda-zone) | 11.7.99 | python3_ia |
@@ -20,12 +23,12 @@
 | [pyasn1](https://github.com/etingof/pyasn1) | 0.4.8 | python3_ia |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 1.3.1 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
-| [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.6.1 | python3_ia |
+| [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.0 | python3_ia |
 | [tensorboard-plugin-wit](https://whatif-tool.dev) | 1.8.1 | python3_ia |
-| [tensorboard](https://github.com/tensorflow/tensorboard) | 2.11.2 | python3_ia |
-| [tensorflow-estimator](https://www.tensorflow.org/) | 2.11.0 | python3_ia |
-| [tensorflow-io-gcs-filesystem](https://github.com/tensorflow/io) | 0.28.0 | python3_ia |
-| [tensorflow](https://www.tensorflow.org/) | 2.11.1 | python3_ia |
+| [tensorboard](https://github.com/tensorflow/tensorboard) | 2.13.0 | python3_ia |
+| [tensorflow-estimator](https://www.tensorflow.org/) | 2.13.0rc0 | python3_ia |
+| [tensorflow-io-gcs-filesystem](https://github.com/tensorflow/io) | 0.32.0 | python3_ia |
+| [tensorflow](https://www.tensorflow.org/) | 2.13.0rc0 | python3_ia |
 | [torch](https://pytorch.org/) | 1.13.1 | python3_ia |
 
-*(27 components)*
+*(30 components)*
