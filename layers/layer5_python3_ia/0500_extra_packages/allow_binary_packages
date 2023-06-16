@@ -28,6 +28,5 @@ tensorflow-estimator
 tensorflow-io-gcs-filesystem
 tf-estimator-nightly
 torch
-ml-dtypes
-jaxlib
 tensorflow-io
+jaxlib
