@@ -14,7 +14,7 @@ jaxlib==0.4.10
 keras==2.13.1rc0
 Keras-Preprocessing==1.1.2
 libclang==14.0.6
-ml-dtypes==0.1.0
+ml-dtypes==0.2.0
 oauthlib==3.2.2
 opt-einsum==3.3.0
 pyasn1==0.4.8
