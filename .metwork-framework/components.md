@@ -10,7 +10,7 @@
 | [jax](https://github.com/google/jax) | 0.4.10 | python3_ia |
 | [jaxlib](https://github.com/google/jax) | 0.4.10 | python3_ia |
 | [Keras-Preprocessing](https://github.com/keras-team/keras-preprocessing) | 1.1.2 | python3_ia |
-| [keras](https://keras.io/) | 2.13.1rc0 | python3_ia |
+| [keras](https://keras.io/) | 2.13.1 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 14.0.6 | python3_ia |
 | [ml-dtypes](https://pypi.org/project/ml-dtypes) | 0.2.0 | python3_ia |
 | [nvidia-cublas-cu11](https://developer.nvidia.com/cuda-zone) | 11.10.3.66 | python3_ia |
@@ -26,9 +26,9 @@
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.0 | python3_ia |
 | [tensorboard-plugin-wit](https://whatif-tool.dev) | 1.8.1 | python3_ia |
 | [tensorboard](https://github.com/tensorflow/tensorboard) | 2.13.0 | python3_ia |
-| [tensorflow-estimator](https://www.tensorflow.org/) | 2.13.0rc0 | python3_ia |
+| [tensorflow-estimator](https://www.tensorflow.org/) | 2.13.0 | python3_ia |
 | [tensorflow-io-gcs-filesystem](https://github.com/tensorflow/io) | 0.32.0 | python3_ia |
-| [tensorflow](https://www.tensorflow.org/) | 2.13.0rc0 | python3_ia |
+| [tensorflow](https://www.tensorflow.org/) | 2.13.0 | python3_ia |
 | [torch](https://pytorch.org/) | 1.13.1 | python3_ia |
 
 *(30 components)*
