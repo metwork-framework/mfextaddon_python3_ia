@@ -11,7 +11,7 @@ google-pasta==0.2.0
 grpcio==1.53.1
 jax==0.4.10
 jaxlib==0.4.10
-keras==2.13.1rc0
+keras==2.13.1
 Keras-Preprocessing==1.1.2
 libclang==14.0.6
 ml-dtypes==0.2.0
@@ -24,7 +24,7 @@ rsa==4.9
 tensorboard==2.13.0
 tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.13.0rc0
-tensorflow-estimator==2.13.0rc0
+tensorflow==2.13.0
+tensorflow-estimator==2.13.0
 tensorflow-io-gcs-filesystem==0.32.0
 torch==1.13.1
