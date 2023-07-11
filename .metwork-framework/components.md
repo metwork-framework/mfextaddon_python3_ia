@@ -6,7 +6,7 @@
 | [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 1.0.0 | python3_ia |
 | [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.17.3 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
-| [grpcio](https://grpc.io) | 1.50.0 | python3_ia |
+| [grpcio](https://grpc.io) | 1.53.1 | python3_ia |
 | [jax](https://github.com/google/jax) | 0.4.10 | python3_ia |
 | [jaxlib](https://github.com/google/jax) | 0.4.10 | python3_ia |
 | [Keras-Preprocessing](https://github.com/keras-team/keras-preprocessing) | 1.1.2 | python3_ia |
