@@ -29,3 +29,4 @@ tf-estimator-nightly
 torch
 tensorflow-io
 jaxlib
+scipy
