@@ -1,7 +1,3 @@
-#keras is now packaged in tensorflow as tensorflow.keras... but tensorflow requires keras !
-#So, to ensure compatibility between keras and tensorflow, keras is only installed as a tensorflow dependency
 torch
 tensorflow
-flatbuffers
-google-auth-oauthlib
 #ml-dtypes could be build from sources with gcc 10
