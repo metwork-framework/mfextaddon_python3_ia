@@ -20,7 +20,6 @@ from nvidia import curand
 from nvidia import cusolver
 from nvidia import cusparse
 from nvidia import nccl
-from nvidia import nvjitlink
 from nvidia import nvtx
 import oauthlib
 import opt_einsum
