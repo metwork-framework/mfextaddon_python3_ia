@@ -12,5 +12,6 @@
 - upgrade grpcio from 1.50.0 to 1.53.1 (security update) (#111)
 - upgrade tensorflow (and dependencies) from 2.13.0 to 2.14.0 (#119)
 - upgrade to tensorflow 2.15 and torch 2.1.1 (#120)
+- downgrade torch to 2.0.1 for compatibility with tensorflow 2.15 (#121)
 
 
