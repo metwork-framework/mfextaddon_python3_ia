@@ -25,8 +25,6 @@
 | [nvidia-nvtx-cu11](https://developer.nvidia.com/cuda-zone) | 11.7.91 | python3_ia |
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
 | [opt-einsum](https://github.com/dgasmith/opt_einsum) | 3.3.0 | python3_ia |
-| [pyasn1-modules](https://github.com/etingof/pyasn1-modules) | 0.2.8 | python3_ia |
-| [pyasn1](https://github.com/etingof/pyasn1) | 0.4.8 | python3_ia |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 1.3.1 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
 | [sympy](https://sympy.org) | 1.12 | python3_ia |
@@ -39,4 +37,4 @@
 | [torch](https://pytorch.org/) | 2.0.1 | python3_ia |
 | [triton](https://github.com/openai/triton/) | 2.0.0 | python3_ia |
 
-*(38 components)*
+*(36 components)*
