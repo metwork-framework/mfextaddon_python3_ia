@@ -1,7 +1,3 @@
-#torch>2.1 is not compatible with tensorflow 2.15 for cuda 12 conflicts
-#torch 2.0 uses cuda 11
-#cuda 12 is included in tensorrt
-torch<2.1.0
+torch
 tensorflow[and-cuda]
-tensorrt
 #ml-dtypes could be build from sources with gcc 10

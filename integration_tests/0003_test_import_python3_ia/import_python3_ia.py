@@ -1,4 +1,4 @@
-#import tensorflow_io_gcs_filesystem
+# import tensorflow_io_gcs_filesystem
 import absl #absl_py
 import astunparse
 import flatbuffers
@@ -23,8 +23,6 @@ from nvidia import nccl
 from nvidia import nvtx
 import oauthlib
 import opt_einsum
-import pyasn1
-import pyasn1_modules
 import requests_oauthlib
 import rsa
 import sympy
