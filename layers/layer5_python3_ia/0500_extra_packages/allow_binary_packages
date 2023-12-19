@@ -22,6 +22,7 @@ nvidia-nccl-cu11
 nvidia-nccl-cu12
 nvidia-nvjitlink-cu12
 nvidia-nvtx-cu11
+nvidia-nvtx-cu12
 astunparse
 cmake
 flatbuffers
