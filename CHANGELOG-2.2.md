@@ -1,5 +1,11 @@
 # release_2.2 CHANGELOG
 
+## v2.2.1 (2023-12-20)
+
+### New Features
+
+- upgrade tensorflow to 2.15.0.post1 and torch to 2.1.2 (backport #125) (#126)
+
 ## v2.2.0 (2023-11-28)
 
 ### New Features
