@@ -10,7 +10,7 @@
 | [keras](https://keras.io/) | 2.15.0 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 16.0.6 | python3_ia |
 | [lit](http://llvm.org) | 17.0.6 | python3_ia |
-| [ml-dtypes](https://pypi.org/project/ml-dtypes) | 0.2.0 | python3_ia |
+| [ml_dtypes](https://pypi.org/project/ml_dtypes) | 0.2.0 | python3_ia |
 | [mpmath](http://mpmath.org/) | 1.3.0 | python3_ia |
 | [nvidia-cublas-cu12](https://developer.nvidia.com/cuda-zone) | 12.1.3.1 | python3_ia |
 | [nvidia-cuda-cupti-cu12](https://developer.nvidia.com/cuda-zone) | 12.1.105 | python3_ia |
