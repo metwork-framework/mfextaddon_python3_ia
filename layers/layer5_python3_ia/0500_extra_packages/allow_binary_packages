@@ -35,6 +35,7 @@ keras-nightly
 Keras-Preprocessing
 libclang
 oauthlib
+onnx
 opt-einsum
 requests-oauthlib
 rsa
@@ -47,4 +48,5 @@ tensorflow-io-gcs-filesystem
 tf-estimator-nightly
 torch
 tensorflow-io
+torchvision
 triton
