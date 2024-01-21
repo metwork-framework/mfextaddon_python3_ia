@@ -33,7 +33,7 @@
 | [nvidia-nvtx-cu12](https://developer.nvidia.com/cuda-zone) | 12.1.105 | python3_ia |
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
 | [onnx](https://pypi.org/project/onnx) | 1.15.0 | python3_ia |
-| [onnxscript](https://onnxscript.ai/) | 0.1.0.dev20240119 | python3_ia |
+| [onnxscript](https://onnxscript.ai/) | 0.1.0.dev20240121 | python3_ia |
 | [opt-einsum](https://github.com/dgasmith/opt_einsum) | 3.3.0 | python3_ia |
 | [pretrainedmodels](https://github.com/cadene/pretrained-models.pytorch) | 0.7.4 | python3_ia |
 | [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.1.3 | python3_ia |
