@@ -35,6 +35,11 @@ keras-nightly
 Keras-Preprocessing
 libclang
 oauthlib
+<<<<<<< HEAD
+=======
+onnx
+onnxscript
+>>>>>>> 5881d57 (build: binary build of onnxscript (#131))
 opt-einsum
 requests-oauthlib
 rsa
