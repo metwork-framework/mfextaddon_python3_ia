@@ -26,11 +26,8 @@
 | [nvidia-nvjitlink-cu12](https://developer.nvidia.com/cuda-zone) | 12.2.140 | python3_ia |
 | [nvidia-nvtx-cu12](https://developer.nvidia.com/cuda-zone) | 12.1.105 | python3_ia |
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
-<<<<<<< HEAD
-=======
 | [onnx](https://pypi.org/project/onnx) | 1.15.0 | python3_ia |
 | [onnxscript](https://onnxscript.ai/) | 0.1.0.dev20240121 | python3_ia |
->>>>>>> 5881d57 (build: binary build of onnxscript (#131))
 | [opt-einsum](https://github.com/dgasmith/opt_einsum) | 3.3.0 | python3_ia |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 1.3.1 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
@@ -43,4 +40,4 @@
 | [torch](https://pytorch.org/) | 2.1.2 | python3_ia |
 | [triton](https://github.com/openai/triton/) | 2.1.0 | python3_ia |
 
-*(37 components)*
+*(39 components)*
