@@ -49,4 +49,5 @@ tensorflow-io-gcs-filesystem
 tf-estimator-nightly
 torch
 tensorflow-io
+torchvision
 triton

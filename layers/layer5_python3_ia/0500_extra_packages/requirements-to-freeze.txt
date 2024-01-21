@@ -1,3 +1,13 @@
 torch
 tensorflow[and-cuda]
 #ml-dtypes could be build from sources with gcc 10
+einops
+lightning
+segmentation-models-pytorch
+torchmetrics
+torchvision
+onnx
+onnxscript
+transformers
+diffusers
+huggingface-hub
