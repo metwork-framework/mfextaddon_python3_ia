@@ -36,6 +36,7 @@ Keras-Preprocessing
 libclang
 oauthlib
 onnx
+onnxscript
 opt-einsum
 requests-oauthlib
 rsa
