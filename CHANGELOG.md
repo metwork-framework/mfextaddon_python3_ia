@@ -1,5 +1,11 @@
 # release_2.2 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- add lightning, torchmetrics, torchvision, transformers, diffusers (backport #130) (#132)
+
 ## v2.2.1 (2023-12-20)
 
 ### New Features
