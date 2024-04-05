@@ -30,8 +30,8 @@ nvidia-nccl-cu12==2.18.1
 nvidia-nvjitlink-cu12==12.3.101
 nvidia-nvtx-cu12==12.1.105
 oauthlib==3.2.2
-onnx==1.15.0
-onnxscript==0.1.0.dev20240121
+onnx==1.16.0
+onnxscript==0.1.0.dev20240405
 opt-einsum==3.3.0
 pretrainedmodels==0.7.4
 pytorch-lightning==2.1.3
