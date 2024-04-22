@@ -52,7 +52,7 @@
 | [torch](https://pytorch.org/) | 2.1.2 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.3.0.post0 | python3_ia |
 | [torchvision](https://github.com/pytorch/vision) | 0.16.2 | python3_ia |
-| [transformers](https://github.com/huggingface/transformers) | 4.36.2 | python3_ia |
+| [transformers](https://github.com/huggingface/transformers) | 4.38.2 | python3_ia |
 | [triton](https://github.com/openai/triton/) | 2.1.0 | python3_ia |
 
 *(54 components)*
