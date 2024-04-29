@@ -38,13 +38,16 @@ oauthlib
 onnx
 onnxscript
 opt-einsum
+optree
 requests-oauthlib
+rich
 rsa
 tensorboard
 tensorboard-data-server
 tensorboard-plugin-wit
 tensorflow
 tensorflow-estimator
+tensorflow-hub
 tensorflow-io-gcs-filesystem
 tf-estimator-nightly
 torch
