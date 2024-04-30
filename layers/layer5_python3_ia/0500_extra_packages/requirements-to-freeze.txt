@@ -11,3 +11,4 @@ onnxscript
 transformers
 diffusers
 huggingface-hub
+tensorflow-hub
