@@ -30,11 +30,11 @@ jobs:
   ci_build:
 
 
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, metwork]
 
     steps:
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           ref: ${{ github.event.client_payload.branch || github.ref }}
