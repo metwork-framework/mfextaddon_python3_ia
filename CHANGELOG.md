@@ -1,5 +1,11 @@
 # release_2.2 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump lightning from 2.1.3 to 2.2.5 (fix CVE-2024-5452) (#139)
+
 ## v2.2.2 (2024-01-22)
 
 ### New Features
