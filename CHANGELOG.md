@@ -10,5 +10,6 @@
 - upgrade transformers to 4.38.2 to fix CVE-2024-3568 (#135)
 - Upgrade from Python 3.11.9 to Python 3.12.3 (#136)
 - bump lightning from 2.1.3 to 2.2.5 (fix CVE-2024-5452) (#139)
+- bump lightning to 2.3.1 (fix CVE-2024-5980) (#142)
 
 
