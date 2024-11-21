@@ -1,14 +1,15 @@
 torch
-tensorflow[and-cuda]
 #ml-dtypes could be build from sources with gcc 10
 einops
 lightning
-segmentation-models-pytorch
 torchmetrics
-torchvision
-onnx
-onnxscript
 transformers
 diffusers
 huggingface-hub
 tensorflow-hub
+#temporarly removed on Python 3.13
+#tensorflow[and-cuda]
+#segmentation-models-pytorch
+#torchvision
+#onnx
+#onnxscript
