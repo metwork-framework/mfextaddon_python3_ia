@@ -20,19 +20,19 @@
 | [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.4.1 | python3_ia |
 | [mpmath](http://mpmath.org/) | 1.3.0 | python3_ia |
 | [namex](https://pypi.org/project/namex) | 0.0.8 | python3_ia |
-| [nvidia-cublas-cu12](https://developer.nvidia.com/cuda-zone) | 12.1.3.1 | python3_ia |
-| [nvidia-cuda-cupti-cu12](https://developer.nvidia.com/cuda-zone) | 12.1.105 | python3_ia |
+| [nvidia-cublas-cu12](https://developer.nvidia.com/cuda-zone) | 12.4.5.8 | python3_ia |
+| [nvidia-cuda-cupti-cu12](https://developer.nvidia.com/cuda-zone) | 12.4.127 | python3_ia |
 | [nvidia-cuda-nvcc-cu12](https://developer.nvidia.com/cuda-zone) | 12.2.140 | python3_ia |
-| [nvidia-cuda-nvrtc-cu12](https://developer.nvidia.com/cuda-zone) | 12.1.105 | python3_ia |
-| [nvidia-cuda-runtime-cu12](https://developer.nvidia.com/cuda-zone) | 12.1.105 | python3_ia |
-| [nvidia-cudnn-cu12](https://developer.nvidia.com/cuda-zone) | 8.9.2.26 | python3_ia |
-| [nvidia-cufft-cu12](https://developer.nvidia.com/cuda-zone) | 11.0.2.54 | python3_ia |
-| [nvidia-curand-cu12](https://developer.nvidia.com/cuda-zone) | 10.3.2.106 | python3_ia |
-| [nvidia-cusolver-cu12](https://developer.nvidia.com/cuda-zone) | 11.4.5.107 | python3_ia |
-| [nvidia-cusparse-cu12](https://developer.nvidia.com/cuda-zone) | 12.1.0.106 | python3_ia |
-| [nvidia-nccl-cu12](https://developer.nvidia.com/cuda-zone) | 2.19.3 | python3_ia |
-| [nvidia-nvjitlink-cu12](https://developer.nvidia.com/cuda-zone) | 12.3.101 | python3_ia |
-| [nvidia-nvtx-cu12](https://developer.nvidia.com/cuda-zone) | 12.1.105 | python3_ia |
+| [nvidia-cuda-nvrtc-cu12](https://developer.nvidia.com/cuda-zone) | 12.4.127 | python3_ia |
+| [nvidia-cuda-runtime-cu12](https://developer.nvidia.com/cuda-zone) | 12.4.127 | python3_ia |
+| [nvidia-cudnn-cu12](https://developer.nvidia.com/cuda-zone) | 9.1.0.70 | python3_ia |
+| [nvidia-cufft-cu12](https://developer.nvidia.com/cuda-zone) | 11.2.1.3 | python3_ia |
+| [nvidia-curand-cu12](https://developer.nvidia.com/cuda-zone) | 10.3.5.147 | python3_ia |
+| [nvidia-cusolver-cu12](https://developer.nvidia.com/cuda-zone) | 11.6.1.9 | python3_ia |
+| [nvidia-cusparse-cu12](https://developer.nvidia.com/cuda-zone) | 12.3.1.170 | python3_ia |
+| [nvidia-nccl-cu12](https://developer.nvidia.com/cuda-zone) | 2.21.5 | python3_ia |
+| [nvidia-nvjitlink-cu12](https://developer.nvidia.com/cuda-zone) | 12.4.127 | python3_ia |
+| [nvidia-nvtx-cu12](https://developer.nvidia.com/cuda-zone) | 12.4.127 | python3_ia |
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
 | [onnx](https://onnx.ai/) | 1.17.0 | python3_ia |
 | [onnxscript](https://onnxscript.ai/) | 0.1.0.dev20240405 | python3_ia |
@@ -44,7 +44,7 @@
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
 | [safetensors](https://github.com/huggingface/safetensors) | 0.4.1 | python3_ia |
 | [segmentation_models_pytorch](https://github.com/qubvel/segmentation_models.pytorch) | 0.3.3 | python3_ia |
-| [sympy](https://sympy.org) | 1.12 | python3_ia |
+| [sympy](https://sympy.org) | 1.13.1 | python3_ia |
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.2 | python3_ia |
 | [tensorboard](https://github.com/tensorflow/tensorboard) | 2.18.0 | python3_ia |
 | [tensorflow-hub](https://github.com/tensorflow/hub) | 0.16.1 | python3_ia |
@@ -52,10 +52,10 @@
 | [tf_keras](https://keras.io/) | 2.18.0 | python3_ia |
 | [timm](https://github.com/huggingface/pytorch-image-models) | 0.9.2 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.15.0 | python3_ia |
-| [torch](https://pytorch.org/) | 2.2.2 | python3_ia |
+| [torch](https://pytorch.org/) | 2.5.1 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.3.0.post0 | python3_ia |
-| [torchvision](https://github.com/pytorch/vision) | 0.17.2 | python3_ia |
+| [torchvision](https://github.com/pytorch/vision) | 0.20.1 | python3_ia |
 | [transformers](https://github.com/huggingface/transformers) | 4.38.2 | python3_ia |
-| [triton](https://github.com/openai/triton/) | 2.2.0 | python3_ia |
+| [triton](https://github.com/triton-lang/triton/) | 3.1.0 | python3_ia |
 
 *(57 components)*
