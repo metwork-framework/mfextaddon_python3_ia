@@ -1,6 +1,7 @@
 torch
 tensorflow[and-cuda]
-#ml-dtypes could be build from sources with gcc 10
+#tensorflow 2.18.0 requires ml-dtypes<0.5.0
+ml-dtypes<0.5.0
 einops
 lightning
 segmentation-models-pytorch
