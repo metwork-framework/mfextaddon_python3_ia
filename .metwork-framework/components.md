@@ -10,7 +10,7 @@
 | [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 1.2.0 | python3_ia |
 | [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.25.2 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
-| [grpcio](https://grpc.io) | 1.60.0 | python3_ia |
+| [grpcio](https://grpc.io) | 1.66.2 | python3_ia |
 | [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 0.20.2 | python3_ia |
 | [keras](https://pypi.org/project/keras) | 3.8.0 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 16.0.6 | python3_ia |
@@ -37,8 +37,7 @@
 | [onnx](https://onnx.ai/) | 1.17.0 | python3_ia |
 | [onnxscript](https://onnxscript.ai/) | 0.1.0.dev20240405 | python3_ia |
 | [opt-einsum](https://github.com/dgasmith/opt_einsum) | 3.3.0 | python3_ia |
-| [optree](https://github.com/metaopt/optree) | 0.11.0 | python3_ia |
-| [pretrainedmodels](https://github.com/cadene/pretrained-models.pytorch) | 0.7.4 | python3_ia |
+| [optree](https://github.com/metaopt/optree) | 0.13.1 | python3_ia |
 | [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.1.3 | python3_ia |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 1.3.1 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
@@ -58,4 +57,4 @@
 | [transformers](https://github.com/huggingface/transformers) | 4.38.2 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.1.0 | python3_ia |
 
-*(57 components)*
+*(56 components)*
