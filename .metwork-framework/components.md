@@ -6,13 +6,13 @@
 | [dm-tree](https://github.com/deepmind/tree) | 0.1.8 | python3_ia |
 | [efficientnet_pytorch](https://github.com/lukemelas/EfficientNet-PyTorch) | 0.7.1 | python3_ia |
 | [einops](https://github.com/arogozhnikov/einops) | 0.7.0 | python3_ia |
-| [flatbuffers](https://google.github.io/flatbuffers/) | 23.5.26 | python3_ia |
+| [flatbuffers](https://google.github.io/flatbuffers/) | 24.3.25 | python3_ia |
 | [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 1.2.0 | python3_ia |
 | [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.25.2 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
 | [grpcio](https://grpc.io) | 1.66.2 | python3_ia |
 | [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 0.20.2 | python3_ia |
-| [keras](https://github.com/keras-team/keras) | 3.0.5 | python3_ia |
+| [keras](https://pypi.org/project/keras) | 3.8.0 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 16.0.6 | python3_ia |
 | [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.10.1 | python3_ia |
 | [lightning](https://github.com/Lightning-AI/lightning) | 2.3.3 | python3_ia |
@@ -34,19 +34,27 @@
 | [nvidia-nvjitlink-cu12](https://developer.nvidia.com/cuda-zone) | 12.4.127 | python3_ia |
 | [nvidia-nvtx-cu12](https://developer.nvidia.com/cuda-zone) | 12.4.127 | python3_ia |
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
+| [onnx](https://onnx.ai/) | 1.17.0 | python3_ia |
+| [onnxscript](https://onnxscript.ai/) | 0.1.0.dev20240405 | python3_ia |
 | [opt-einsum](https://github.com/dgasmith/opt_einsum) | 3.3.0 | python3_ia |
 | [optree](https://github.com/metaopt/optree) | 0.13.1 | python3_ia |
 | [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.1.3 | python3_ia |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 1.3.1 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
 | [safetensors](https://github.com/huggingface/safetensors) | 0.4.1 | python3_ia |
+| [segmentation_models_pytorch](https://github.com/qubvel/segmentation_models.pytorch) | 0.3.3 | python3_ia |
 | [sympy](https://sympy.org) | 1.13.1 | python3_ia |
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.2 | python3_ia |
-| [tensorboard](https://github.com/tensorflow/tensorboard) | 2.16.2 | python3_ia |
+| [tensorboard](https://github.com/tensorflow/tensorboard) | 2.18.0 | python3_ia |
 | [tensorflow-hub](https://github.com/tensorflow/hub) | 0.16.1 | python3_ia |
+| [tensorflow](https://www.tensorflow.org/) | 2.18.0 | python3_ia |
+| [tf_keras](https://keras.io/) | 2.18.0 | python3_ia |
+| [timm](https://github.com/huggingface/pytorch-image-models) | 0.9.2 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.15.0 | python3_ia |
 | [torch](https://pytorch.org/) | 2.5.1 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.3.0.post0 | python3_ia |
+| [torchvision](https://github.com/pytorch/vision) | 0.20.1 | python3_ia |
 | [transformers](https://github.com/huggingface/transformers) | 4.38.2 | python3_ia |
+| [triton](https://github.com/triton-lang/triton/) | 3.1.0 | python3_ia |
 
-*(48 components)*
+*(56 components)*
