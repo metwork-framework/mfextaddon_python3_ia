@@ -14,5 +14,6 @@
 - bump lightning to 2.3.3 (#143)
 - bump onnx from 1.16.0 to 1.17.0 to fix CVE-2024-5187 (#147)
 - upgrade tensorflow, torch and dependencies for numpy 2 compatibility (#149)
+- bump keras from 3.5.0 to 3.8.0 (fix CVE-2024-55459) (#152)
 
 
