@@ -16,5 +16,6 @@
 - upgrade tensorflow, torch and dependencies for numpy 2 compatibility (#149)
 - bump keras from 3.5.0 to 3.8.0 (fix CVE-2024-55459) (#152)
 - bump transformers to 4.48.3 (CVE-2024-11392, CVE-2024-11393, CVE-2024-11394) (#154)
+- bump torch, torchvision and triton to last releases (Python 3.13) (#155)
 
 

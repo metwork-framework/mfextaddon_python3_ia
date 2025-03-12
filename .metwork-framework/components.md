@@ -12,7 +12,7 @@
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
 | [grpcio](https://grpc.io) | 1.66.2 | python3_ia |
 | [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 0.24.7 | python3_ia |
-| [keras](https://pypi.org/project/keras) | 3.8.0 | python3_ia |
+| [keras](https://pypi.org/project/keras) | 3.9.0 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 16.0.6 | python3_ia |
 | [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.10.1 | python3_ia |
 | [lightning](https://github.com/Lightning-AI/lightning) | 2.3.3 | python3_ia |
@@ -58,4 +58,4 @@
 | [transformers](https://github.com/huggingface/transformers) | 4.48.3 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.2.0 | python3_ia |
 
-*(57 components)*
+*(58 components)*
