@@ -1,6 +1,6 @@
 torch
 tensorflow[and-cuda]
-#ml-dtypes could be build from sources with gcc 10
+ml-dtypes
 einops
 lightning
 segmentation-models-pytorch
