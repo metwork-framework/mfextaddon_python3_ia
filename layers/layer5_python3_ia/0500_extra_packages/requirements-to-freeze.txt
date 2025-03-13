@@ -1,7 +1,6 @@
 torch
 tensorflow[and-cuda]
-#tensorflow 2.18.0 requires ml-dtypes<0.5.0
-ml-dtypes<0.5.0
+ml-dtypes
 einops
 lightning
 torchmetrics
