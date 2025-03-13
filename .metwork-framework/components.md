@@ -17,7 +17,7 @@
 | [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.10.1 | python3_ia |
 | [lightning](https://github.com/Lightning-AI/lightning) | 2.3.3 | python3_ia |
 | [lit](http://llvm.org) | 17.0.6 | python3_ia |
-| [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.4.1 | python3_ia |
+| [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.5.1 | python3_ia |
 | [mpmath](http://mpmath.org/) | 1.3.0 | python3_ia |
 | [namex](https://pypi.org/project/namex) | 0.0.8 | python3_ia |
 | [nvidia-cublas-cu12](https://developer.nvidia.com/cuda-zone) | 12.4.5.8 | python3_ia |
@@ -47,10 +47,10 @@
 | [segmentation_models_pytorch](https://github.com/qubvel/segmentation_models.pytorch) | 0.3.3 | python3_ia |
 | [sympy](https://sympy.org) | 1.13.1 | python3_ia |
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.2 | python3_ia |
-| [tensorboard](https://github.com/tensorflow/tensorboard) | 2.18.0 | python3_ia |
+| [tensorboard](https://github.com/tensorflow/tensorboard) | 2.19.0 | python3_ia |
 | [tensorflow-hub](https://github.com/tensorflow/hub) | 0.16.1 | python3_ia |
-| [tensorflow](https://www.tensorflow.org/) | 2.18.0 | python3_ia |
-| [tf_keras](https://keras.io/) | 2.18.0 | python3_ia |
+| [tensorflow](https://www.tensorflow.org/) | 2.19.0 | python3_ia |
+| [tf_keras](https://keras.io/) | 2.19.0 | python3_ia |
 | [timm](https://github.com/huggingface/pytorch-image-models) | 0.9.2 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.21.0 | python3_ia |
 | [torch](https://pytorch.org/) | 2.6.0 | python3_ia |
