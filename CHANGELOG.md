@@ -18,5 +18,6 @@
 - bump transformers to 4.48.3 (CVE-2024-11392, CVE-2024-11393, CVE-2024-11394) (#154)
 - bump torch, torchvision and triton to last releases (Python 3.13) (#155)
 - bump keras from 3.8.0 to 3.9.0 (fix CVE-2025-1550) (#158)
+- upgrade tensorflow from 2.18.0 to 2.19.0 (#160)
 
 
