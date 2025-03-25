@@ -3,12 +3,13 @@ tensorflow[and-cuda]
 ml-dtypes
 einops
 lightning
-segmentation-models-pytorch
 torchmetrics
-torchvision
-onnx
-onnxscript
 transformers
 diffusers
 huggingface-hub
 tensorflow-hub
+tensorflow[and-cuda]
+segmentation-models-pytorch
+torchvision
+onnx
+onnxscript
