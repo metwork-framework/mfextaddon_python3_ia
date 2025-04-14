@@ -34,6 +34,7 @@ nvidia-nvjitlink-cu12==12.4.127
 nvidia-nvtx-cu12==12.4.127
 oauthlib==3.2.2
 onnx==1.17.0
+onnxruntime==1.21.0
 onnxscript==0.1.0.dev20240405
 opt-einsum==3.3.0
 optree==0.11.0
