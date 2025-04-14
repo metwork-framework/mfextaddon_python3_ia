@@ -38,6 +38,7 @@ nvidia-nvtx-cu11
 nvidia-nvtx-cu12
 oauthlib
 onnx
+onnxruntime
 onnxscript
 opt-einsum
 optree
