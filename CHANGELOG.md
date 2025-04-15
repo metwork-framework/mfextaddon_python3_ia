@@ -20,5 +20,6 @@
 - bump keras from 3.8.0 to 3.9.0 (fix CVE-2025-1550) (#158)
 - upgrade tensorflow from 2.18.0 to 2.19.0 (#160)
 - bump lightning and pytorch-lightning to 2.5.1 (CVE-2024-8019) (#164)
+- add onnxruntime (#166)
 
 
