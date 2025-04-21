@@ -31,6 +31,7 @@ from nvidia import nvjitlink
 from nvidia import nvtx
 import oauthlib
 import onnx
+import onnxruntime
 import onnxscript
 import opt_einsum
 import optree

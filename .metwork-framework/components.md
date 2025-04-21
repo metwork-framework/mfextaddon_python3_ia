@@ -36,6 +36,7 @@
 | [nvidia-nvtx-cu12](https://developer.nvidia.com/cuda-zone) | 12.4.127 | python3_ia |
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
 | [onnx](https://onnx.ai/) | 1.17.0 | python3_ia |
+| [onnxruntime](https://onnxruntime.ai) | 1.21.0 | python3_ia |
 | [onnxscript](https://onnxscript.ai/) | 0.1.0.dev20240405 | python3_ia |
 | [opt-einsum](https://github.com/dgasmith/opt_einsum) | 3.3.0 | python3_ia |
 | [optree](https://github.com/metaopt/optree) | 0.13.1 | python3_ia |
@@ -59,4 +60,4 @@
 | [transformers](https://github.com/huggingface/transformers) | 4.48.3 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.2.0 | python3_ia |
 
-*(58 components)*
+*(59 components)*
