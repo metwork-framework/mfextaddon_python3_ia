@@ -23,6 +23,7 @@ from nvidia import cuda_nvrtc
 from nvidia import cuda_runtime
 from nvidia import cudnn
 from nvidia import cufft
+from nvidia import cufile
 from nvidia import curand
 from nvidia import cusolver
 from nvidia import cusparse
