@@ -1,3 +1,1 @@
 librdmacm.so.1()(64bit)@generic
-libibverbs.so.1()(64bit)@generic
-libmlx5.so.1()(64bit)@generic
