@@ -21,5 +21,6 @@
 - upgrade tensorflow from 2.18.0 to 2.19.0 (#160)
 - bump lightning and pytorch-lightning to 2.5.1 (CVE-2024-8019) (#164)
 - add onnxruntime (#166)
+- bump torch from 2.6.0 to 2.7.0 (CVE-2025-3730 and CVE-2025-2953) (#169)
 
 
