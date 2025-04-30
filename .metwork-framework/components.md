@@ -11,7 +11,7 @@
 | [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.25.2 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
 | [grpcio](https://grpc.io) | 1.60.0 | python3_ia |
-| [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 0.24.7 | python3_ia |
+| [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 0.30.2 | python3_ia |
 | [keras](https://pypi.org/project/keras) | 3.9.0 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 16.0.6 | python3_ia |
 | [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.14.2 | python3_ia |
@@ -45,7 +45,7 @@
 | [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.5.1 | python3_ia |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 1.3.1 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
-| [safetensors](https://github.com/huggingface/safetensors) | 0.4.1 | python3_ia |
+| [safetensors](https://github.com/huggingface/safetensors) | 0.5.3 | python3_ia |
 | [segmentation_models_pytorch](https://github.com/qubvel/segmentation_models.pytorch) | 0.3.3 | python3_ia |
 | [sympy](https://sympy.org) | 1.13.3 | python3_ia |
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.2 | python3_ia |
@@ -58,7 +58,7 @@
 | [torch](https://pytorch.org/) | 2.7.0 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.3.0.post0 | python3_ia |
 | [torchvision](https://github.com/pytorch/vision) | 0.22.0 | python3_ia |
-| [transformers](https://github.com/huggingface/transformers) | 4.48.3 | python3_ia |
+| [transformers](https://github.com/huggingface/transformers) | 4.51.3 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.3.0 | python3_ia |
 
 *(60 components)*
