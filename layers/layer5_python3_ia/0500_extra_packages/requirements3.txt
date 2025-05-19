@@ -4,7 +4,7 @@ diffusers==0.33.1
 dm-tree==0.1.9
 efficientnet-pytorch==0.7.1
 einops==0.8.1
-flatbuffers==24.3.25
+flatbuffers==25.2.10
 google-auth==2.25.2
 google-auth-oauthlib==1.2.0
 google-pasta==0.2.0
