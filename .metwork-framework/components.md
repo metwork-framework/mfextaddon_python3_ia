@@ -1,6 +1,6 @@
 | Name | Version | Layer |
 | --- | --- | --- |
-| [absl-py](https://github.com/abseil/abseil-py) | 2.0.0 | python3_ia |
+| [absl-py](https://github.com/abseil/abseil-py) | 2.2.2 | python3_ia |
 | [astunparse](https://github.com/simonpercivall/astunparse) | 1.6.3 | python3_ia |
 | [diffusers](https://github.com/huggingface/diffusers) | 0.33.1 | python3_ia |
 | [dm-tree](https://github.com/deepmind/tree) | 0.1.8 | python3_ia |
