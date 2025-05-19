@@ -10,7 +10,7 @@
 | [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 1.2.2 | python3_ia |
 | [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.40.1 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
-| [grpcio](https://grpc.io) | 1.60.0 | python3_ia |
+| [grpcio](https://grpc.io) | 1.71.0 | python3_ia |
 | [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 0.30.2 | python3_ia |
 | [keras](https://pypi.org/project/keras) | 3.9.0 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 16.0.6 | python3_ia |
