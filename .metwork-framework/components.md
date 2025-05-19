@@ -38,7 +38,7 @@
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
 | [onnx](https://onnx.ai/) | 1.17.0 | python3_ia |
 | [onnxruntime](https://onnxruntime.ai) | 1.22.0 | python3_ia |
-| [onnxscript](https://onnxscript.ai/) | 0.1.0.dev20240405 | python3_ia |
+| [onnxscript](https://microsoft.github.io/onnxscript/) | 0.2.5 | python3_ia |
 | [opt-einsum](https://github.com/dgasmith/opt_einsum) | 3.3.0 | python3_ia |
 | [optree](https://github.com/metaopt/optree) | 0.11.0 | python3_ia |
 | [pretrainedmodels](https://github.com/cadene/pretrained-models.pytorch) | 0.7.4 | python3_ia |
