@@ -6,7 +6,7 @@ efficientnet-pytorch==0.7.1
 einops==0.8.1
 flatbuffers==25.2.10
 google-auth==2.40.1
-google-auth-oauthlib==1.2.0
+google-auth-oauthlib==1.2.2
 google-pasta==0.2.0
 grpcio==1.60.0
 huggingface_hub==0.30.2
