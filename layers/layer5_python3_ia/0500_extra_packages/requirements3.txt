@@ -1,7 +1,7 @@
 astunparse==1.6.3
 absl-py==2.2.2
 diffusers==0.33.1
-dm-tree==0.1.8
+dm-tree==0.1.9
 efficientnet-pytorch==0.7.1
 einops==0.7.0
 flatbuffers==24.3.25
