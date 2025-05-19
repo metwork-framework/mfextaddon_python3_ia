@@ -19,7 +19,7 @@
 | [lit](http://llvm.org) | 18.1.8 | python3_ia |
 | [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.5.1 | python3_ia |
 | [mpmath](http://mpmath.org/) | 1.3.0 | python3_ia |
-| [namex](https://pypi.org/project/namex) | 0.0.8 | python3_ia |
+| [namex](https://pypi.org/project/namex) | 0.0.9 | python3_ia |
 | [nvidia-cublas-cu12](https://developer.nvidia.com/cuda-zone) | 12.6.4.1 | python3_ia |
 | [nvidia-cuda-cupti-cu12](https://developer.nvidia.com/cuda-zone) | 12.6.80 | python3_ia |
 | [nvidia-cuda-nvcc-cu12](https://developer.nvidia.com/cuda-zone) | 12.2.140 | python3_ia |
