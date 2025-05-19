@@ -3,7 +3,7 @@ absl-py==2.2.2
 diffusers==0.33.1
 dm-tree==0.1.9
 efficientnet-pytorch==0.7.1
-einops==0.7.0
+einops==0.8.1
 flatbuffers==24.3.25
 google-auth==2.25.2
 google-auth-oauthlib==1.2.0
