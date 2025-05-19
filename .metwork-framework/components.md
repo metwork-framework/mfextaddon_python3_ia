@@ -3,7 +3,7 @@
 | [absl-py](https://github.com/abseil/abseil-py) | 2.2.2 | python3_ia |
 | [astunparse](https://github.com/simonpercivall/astunparse) | 1.6.3 | python3_ia |
 | [diffusers](https://github.com/huggingface/diffusers) | 0.33.1 | python3_ia |
-| [dm-tree](https://github.com/deepmind/tree) | 0.1.8 | python3_ia |
+| [dm-tree](https://github.com/deepmind/tree) | 0.1.9 | python3_ia |
 | [efficientnet_pytorch](https://github.com/lukemelas/EfficientNet-PyTorch) | 0.7.1 | python3_ia |
 | [einops](https://github.com/arogozhnikov/einops) | 0.7.0 | python3_ia |
 | [flatbuffers](https://google.github.io/flatbuffers/) | 24.3.25 | python3_ia |
