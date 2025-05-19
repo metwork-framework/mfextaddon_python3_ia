@@ -39,7 +39,7 @@
 | [onnx](https://onnx.ai/) | 1.17.0 | python3_ia |
 | [onnxruntime](https://onnxruntime.ai) | 1.22.0 | python3_ia |
 | [onnxscript](https://microsoft.github.io/onnxscript/) | 0.2.5 | python3_ia |
-| [opt-einsum](https://github.com/dgasmith/opt_einsum) | 3.3.0 | python3_ia |
+| [opt_einsum](https://pypi.org/project/opt_einsum) | 3.4.0 | python3_ia |
 | [optree](https://github.com/metaopt/optree) | 0.11.0 | python3_ia |
 | [pretrainedmodels](https://github.com/cadene/pretrained-models.pytorch) | 0.7.4 | python3_ia |
 | [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.5.1 | python3_ia |
