@@ -5,7 +5,7 @@ dm-tree==0.1.9
 efficientnet-pytorch==0.7.1
 einops==0.8.1
 flatbuffers==25.2.10
-google-auth==2.25.2
+google-auth==2.40.1
 google-auth-oauthlib==1.2.0
 google-pasta==0.2.0
 grpcio==1.60.0
