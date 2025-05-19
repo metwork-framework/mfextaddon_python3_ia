@@ -8,7 +8,7 @@
 | [einops](https://github.com/arogozhnikov/einops) | 0.8.1 | python3_ia |
 | [flatbuffers](https://google.github.io/flatbuffers/) | 25.2.10 | python3_ia |
 | [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 1.2.0 | python3_ia |
-| [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.25.2 | python3_ia |
+| [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.40.1 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
 | [grpcio](https://grpc.io) | 1.60.0 | python3_ia |
 | [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 0.30.2 | python3_ia |
