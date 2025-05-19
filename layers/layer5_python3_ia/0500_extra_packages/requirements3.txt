@@ -1,5 +1,5 @@
 astunparse==1.6.3
-absl-py==2.0.0
+absl-py==2.2.2
 diffusers==0.33.1
 dm-tree==0.1.8
 efficientnet-pytorch==0.7.1
