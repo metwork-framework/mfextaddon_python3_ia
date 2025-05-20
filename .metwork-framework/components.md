@@ -4,7 +4,6 @@
 | [astunparse](https://github.com/simonpercivall/astunparse) | 1.6.3 | python3_ia |
 | [diffusers](https://github.com/huggingface/diffusers) | 0.33.1 | python3_ia |
 | [dm-tree](https://github.com/deepmind/tree) | 0.1.9 | python3_ia |
-| [efficientnet_pytorch](https://github.com/lukemelas/EfficientNet-PyTorch) | 0.7.1 | python3_ia |
 | [einops](https://github.com/arogozhnikov/einops) | 0.8.1 | python3_ia |
 | [flatbuffers](https://google.github.io/flatbuffers/) | 25.2.10 | python3_ia |
 | [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 1.2.2 | python3_ia |
@@ -41,12 +40,11 @@
 | [onnxscript](https://microsoft.github.io/onnxscript/) | 0.2.5 | python3_ia |
 | [opt_einsum](https://pypi.org/project/opt_einsum) | 3.4.0 | python3_ia |
 | [optree](https://github.com/metaopt/optree) | 0.15.0 | python3_ia |
-| [pretrainedmodels](https://github.com/cadene/pretrained-models.pytorch) | 0.7.4 | python3_ia |
 | [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.5.1.post0 | python3_ia |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 2.0.0 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
 | [safetensors](https://github.com/huggingface/safetensors) | 0.5.3 | python3_ia |
-| [segmentation_models_pytorch](https://github.com/qubvel/segmentation_models.pytorch) | 0.3.3 | python3_ia |
+| [segmentation_models_pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) | 0.5.0 | python3_ia |
 | [sympy](https://sympy.org) | 1.13.3 | python3_ia |
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.2 | python3_ia |
 | [tensorboard](https://github.com/tensorflow/tensorboard) | 2.19.0 | python3_ia |
@@ -61,4 +59,4 @@
 | [transformers](https://github.com/huggingface/transformers) | 4.51.3 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.3.0 | python3_ia |
 
-*(60 components)*
+*(58 components)*
