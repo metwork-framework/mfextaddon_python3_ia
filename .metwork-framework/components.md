@@ -45,7 +45,7 @@
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
 | [safetensors](https://github.com/huggingface/safetensors) | 0.5.3 | python3_ia |
 | [segmentation_models_pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) | 0.5.0 | python3_ia |
-| [sympy](https://sympy.org) | 1.13.3 | python3_ia |
+| [sympy](https://sympy.org) | 1.14.0 | python3_ia |
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.2 | python3_ia |
 | [tensorboard](https://github.com/tensorflow/tensorboard) | 2.19.0 | python3_ia |
 | [tensorflow-hub](https://github.com/tensorflow/hub) | 0.16.1 | python3_ia |
