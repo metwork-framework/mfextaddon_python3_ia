@@ -1,7 +1,6 @@
 import absl #absl_py
 import astunparse
 import diffusers
-import efficientnet_pytorch
 import tree #dm_tree
 import einops
 import flatbuffers
@@ -36,7 +35,6 @@ import onnxruntime
 import onnxscript
 import opt_einsum
 import optree
-import pretrainedmodels
 import pytorch_lightning
 import requests_oauthlib
 import rsa
