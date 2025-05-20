@@ -43,7 +43,7 @@
 | [optree](https://github.com/metaopt/optree) | 0.15.0 | python3_ia |
 | [pretrainedmodels](https://github.com/cadene/pretrained-models.pytorch) | 0.7.4 | python3_ia |
 | [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.5.1.post0 | python3_ia |
-| [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 1.3.1 | python3_ia |
+| [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 2.0.0 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
 | [safetensors](https://github.com/huggingface/safetensors) | 0.5.3 | python3_ia |
 | [segmentation_models_pytorch](https://github.com/qubvel/segmentation_models.pytorch) | 0.3.3 | python3_ia |
