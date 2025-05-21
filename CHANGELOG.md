@@ -29,5 +29,7 @@
 - bump sympy from 1.13.3 to 1.14.0 (#198)
 - bump timm from 0.9.2 to 1.0.15 (#199)
 - bump tokenizers from 0.21.0 to 0.21.1 (#200)
+- bump torchmetrics from 1.3.0.post0 to 1.7.1 (#201)
+- bump transformers from 4.51.3 to 4.52.1 (#202)
 
 
