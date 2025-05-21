@@ -23,5 +23,11 @@
 - bump opt-einsum from 3.3.0 to 3.4.0 (#192)
 - bump optree from 0.11.0 to 0.15.0 (#193)
 - bump pytorch-lightning from 2.5.1 to 2.5.1.post0 (#194)
+- bump requests-oauthlib from 1.3.1 to 2.0.0 (#195)
+- bump segmentation_models_pytorch from 0.3.3 to 0.5.0
+- bump segmentation_models_pytorch from 0.3.3 to 0.5.0 (#196)
+- bump sympy from 1.13.3 to 1.14.0 (#198)
+- bump timm from 0.9.2 to 1.0.15 (#199)
+- bump tokenizers from 0.21.0 to 0.21.1 (#200)
 
 
