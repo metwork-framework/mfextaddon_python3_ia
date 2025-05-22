@@ -1,7 +1,6 @@
 import absl #absl_py
 import astunparse
 import diffusers
-import efficientnet_pytorch
 import tree #dm_tree
 import einops
 import flatbuffers
@@ -23,6 +22,7 @@ from nvidia import cuda_nvrtc
 from nvidia import cuda_runtime
 from nvidia import cudnn
 from nvidia import cufft
+from nvidia import cufile
 from nvidia import curand
 from nvidia import cusolver
 from nvidia import cusparse
@@ -35,7 +35,6 @@ import onnxruntime
 import onnxscript
 import opt_einsum
 import optree
-import pretrainedmodels
 import pytorch_lightning
 import requests_oauthlib
 import rsa
