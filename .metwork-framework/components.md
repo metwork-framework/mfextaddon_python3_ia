@@ -35,7 +35,7 @@
 | [nvidia-nvjitlink-cu12](https://developer.nvidia.com/cuda-zone) | 12.6.85 | python3_ia |
 | [nvidia-nvtx-cu12](https://developer.nvidia.com/cuda-zone) | 12.6.77 | python3_ia |
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
-| [onnx](https://onnx.ai/) | 1.17.0 | python3_ia |
+| [onnx](https://onnx.ai/) | 1.18.0 | python3_ia |
 | [onnxruntime](https://onnxruntime.ai) | 1.22.0 | python3_ia |
 | [onnxscript](https://microsoft.github.io/onnxscript/) | 0.2.5 | python3_ia |
 | [opt_einsum](https://pypi.org/project/opt_einsum) | 3.4.0 | python3_ia |
