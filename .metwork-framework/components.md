@@ -53,10 +53,10 @@
 | [tf_keras](https://keras.io/) | 2.19.0 | python3_ia |
 | [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.15 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.21.1 | python3_ia |
-| [torch](https://pytorch.org/) | 2.7.0 | python3_ia |
+| [torch](https://pytorch.org/) | 2.7.1 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.7.1 | python3_ia |
-| [torchvision](https://github.com/pytorch/vision) | 0.22.0 | python3_ia |
+| [torchvision](https://github.com/pytorch/vision) | 0.22.1 | python3_ia |
 | [transformers](https://github.com/huggingface/transformers) | 4.52.1 | python3_ia |
-| [triton](https://github.com/triton-lang/triton/) | 3.3.0 | python3_ia |
+| [triton](https://github.com/triton-lang/triton/) | 3.3.1 | python3_ia |
 
 *(58 components)*
