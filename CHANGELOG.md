@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump to torch 2.7.1, triton 3.3.1 and torchvision 0.22.1 (#210)
+
 ## v2.3.0 (2025-05-21)
 
 ### New Features
