@@ -59,4 +59,4 @@
 | [transformers](https://github.com/huggingface/transformers) | 4.53.3 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.3.1 | python3_ia |
 
-*(59 components)*
+*(58 components)*
