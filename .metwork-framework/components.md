@@ -11,7 +11,7 @@
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
 | [grpcio](https://grpc.io) | 1.71.0 | python3_ia |
 | [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 0.31.4 | python3_ia |
-| [keras](https://pypi.org/project/keras) | 3.10.0 | python3_ia |
+| [keras](https://pypi.org/project/keras) | 3.11.3 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 18.1.1 | python3_ia |
 | [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.14.3 | python3_ia |
 | [lightning](https://github.com/Lightning-AI/lightning) | 2.5.1.post0 | python3_ia |
@@ -47,16 +47,16 @@
 | [segmentation_models_pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) | 0.5.0 | python3_ia |
 | [sympy](https://sympy.org) | 1.14.0 | python3_ia |
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.2 | python3_ia |
-| [tensorboard](https://github.com/tensorflow/tensorboard) | 2.19.0 | python3_ia |
+| [tensorboard](https://github.com/tensorflow/tensorboard) | 2.20.0 | python3_ia |
 | [tensorflow-hub](https://github.com/tensorflow/hub) | 0.16.1 | python3_ia |
-| [tensorflow](https://www.tensorflow.org/) | 2.19.0 | python3_ia |
-| [tf_keras](https://keras.io/) | 2.19.0 | python3_ia |
+| [tensorflow](https://www.tensorflow.org/) | 2.20.0 | python3_ia |
+| [tf_keras](https://keras.io/) | 2.20.0 | python3_ia |
 | [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.15 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.21.1 | python3_ia |
 | [torch](https://pytorch.org/) | 2.7.1 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.7.1 | python3_ia |
 | [torchvision](https://github.com/pytorch/vision) | 0.22.1 | python3_ia |
-| [transformers](https://github.com/huggingface/transformers) | 4.52.4 | python3_ia |
+| [transformers](https://github.com/huggingface/transformers) | 4.53.3 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.3.1 | python3_ia |
 
 *(59 components)*
