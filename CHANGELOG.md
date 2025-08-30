@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump keras from 3.10.0 to 3.11.3 (fix high CVE-2025-8747) (backport #219) (#220)
+
 ## v2.3.1 (2025-07-11)
 
 ### New Features
