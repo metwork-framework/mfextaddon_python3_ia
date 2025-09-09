@@ -11,7 +11,7 @@ grpcio==1.71.0
 huggingface_hub==0.31.4
 keras==3.11.3
 libclang==18.1.1
-lightning==2.5.1.post0
+lightning==2.5.5
 lightning-utilities==0.14.3
 lit==18.1.8
 ml-dtypes==0.5.1
