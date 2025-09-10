@@ -12,5 +12,7 @@
 - bump transformers from 4.52.4 to 4.53.3 (fix CVE-2025-5197) (#221)
 - bump tensorflow (and dependencies) from 2.19.0 to 2.20.0 (#222)
 - bump tf_keras from 2.20.0 (yanked) to 2.20.1 (#224)
+- bump lightning from 2.5.1.post0 to 2.5.5 (#226)
+- bump torch from 2.7.1 to 2.8.0 (fix moderate CVE-2025-3730) (#227)
 
 
