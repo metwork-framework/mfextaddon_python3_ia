@@ -37,6 +37,7 @@ PyYAML
 requests-oauthlib
 rich
 rsa
+safetensors
 tensorboard
 tensorboard-data-server
 tensorboard-plugin-wit
