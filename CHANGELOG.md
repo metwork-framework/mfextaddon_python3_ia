@@ -15,5 +15,6 @@
 - bump lightning from 2.5.1.post0 to 2.5.5 (#226)
 - bump torch from 2.7.1 to 2.8.0 (fix moderate CVE-2025-3730) (#227)
 - bump keras from 3.11.3 to 3.12.0 (fix high CVE-2025-12060) (#229)
+- bump safetensors from 0.5.3 to 0.6.2 (#230)
 
 
