@@ -30,8 +30,9 @@
 | [nvidia-cusolver-cu12](https://developer.nvidia.com/cuda-zone) | 11.7.3.90 | python3_ia |
 | [nvidia-cusparse-cu12](https://developer.nvidia.com/cuda-zone) | 12.5.8.93 | python3_ia |
 | [nvidia-cusparselt-cu12](https://developer.nvidia.com/cusparselt) | 0.7.1 | python3_ia |
-| [nvidia-nccl-cu12](https://developer.nvidia.com/cuda-zone) | 2.27.3 | python3_ia |
+| [nvidia-nccl-cu12](https://developer.nvidia.com/cuda-zone) | 2.27.5 | python3_ia |
 | [nvidia-nvjitlink-cu12](https://developer.nvidia.com/cuda-zone) | 12.8.93 | python3_ia |
+| [nvidia-nvshmem-cu12](https://developer.nvidia.com/cuda-zone) | 3.3.20 | python3_ia |
 | [nvidia-nvtx-cu12](https://developer.nvidia.com/cuda-zone) | 12.8.90 | python3_ia |
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
 | [onnx](https://onnx.ai/) | 1.20.0 | python3_ia |
@@ -52,10 +53,10 @@
 | [tf_keras](https://keras.io/) | 2.20.1 | python3_ia |
 | [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.22 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.21.1 | python3_ia |
-| [torch](https://pytorch.org/) | 2.8.0 | python3_ia |
+| [torch](https://pytorch.org) | 2.9.1 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.7.1 | python3_ia |
-| [torchvision](https://github.com/pytorch/vision) | 0.23.0 | python3_ia |
+| [torchvision](https://github.com/pytorch/vision) | 0.24.1 | python3_ia |
 | [transformers](https://github.com/huggingface/transformers) | 4.53.3 | python3_ia |
-| [triton](https://github.com/triton-lang/triton/) | 3.4.0 | python3_ia |
+| [triton](https://github.com/triton-lang/triton/) | 3.5.1 | python3_ia |
 
-*(57 components)*
+*(58 components)*
