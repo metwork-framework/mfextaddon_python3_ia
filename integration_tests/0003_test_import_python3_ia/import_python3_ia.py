@@ -12,7 +12,7 @@ import lightning
 import pasta #google_pasta
 import grpc #grpcio
 import clang #libclang
-import keras
+#import keras not Python 3.14 compliant
 import ml_dtypes
 import mpmath
 import namex
