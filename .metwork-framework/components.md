@@ -38,7 +38,7 @@
 | [onnxruntime](https://onnxruntime.ai) | 1.22.0 | python3_ia |
 | [onnxscript](https://microsoft.github.io/onnxscript/) | 0.2.5 | python3_ia |
 | [opt_einsum](https://pypi.org/project/opt_einsum) | 3.4.0 | python3_ia |
-| [optree](https://github.com/metaopt/optree) | 0.15.0 | python3_ia |
+| [optree](https://github.com/metaopt/optree) | 0.18.0 | python3_ia |
 | [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.5.1.post0 | python3_ia |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 2.0.0 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
