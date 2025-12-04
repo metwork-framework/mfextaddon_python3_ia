@@ -16,7 +16,7 @@
 | [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.14.3 | python3_ia |
 | [lightning](https://github.com/Lightning-AI/lightning) | 2.5.5 | python3_ia |
 | [lit](http://llvm.org) | 18.1.8 | python3_ia |
-| [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.5.1 | python3_ia |
+| [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.5.4 | python3_ia |
 | [mpmath](http://mpmath.org/) | 1.3.0 | python3_ia |
 | [namex](https://pypi.org/project/namex) | 0.0.9 | python3_ia |
 | [nvidia-cublas-cu12](https://developer.nvidia.com/cuda-zone) | 12.8.4.1 | python3_ia |
