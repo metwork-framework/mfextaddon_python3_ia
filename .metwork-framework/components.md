@@ -9,14 +9,14 @@
 | [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 1.2.2 | python3_ia |
 | [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.40.1 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
-| [grpcio](https://grpc.io) | 1.71.0 | python3_ia |
+| [grpcio](https://grpc.io) | 1.76.0 | python3_ia |
 | [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 0.31.4 | python3_ia |
 | [keras](https://pypi.org/project/keras) | 3.12.0 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 18.1.1 | python3_ia |
 | [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.14.3 | python3_ia |
 | [lightning](https://github.com/Lightning-AI/lightning) | 2.5.5 | python3_ia |
 | [lit](http://llvm.org) | 18.1.8 | python3_ia |
-| [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.5.1 | python3_ia |
+| [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.5.4 | python3_ia |
 | [mpmath](http://mpmath.org/) | 1.3.0 | python3_ia |
 | [namex](https://pypi.org/project/namex) | 0.0.9 | python3_ia |
 | [nvidia-cublas-cu12](https://developer.nvidia.com/cuda-zone) | 12.8.4.1 | python3_ia |
@@ -30,15 +30,15 @@
 | [nvidia-cusolver-cu12](https://developer.nvidia.com/cuda-zone) | 11.7.3.90 | python3_ia |
 | [nvidia-cusparse-cu12](https://developer.nvidia.com/cuda-zone) | 12.5.8.93 | python3_ia |
 | [nvidia-cusparselt-cu12](https://developer.nvidia.com/cusparselt) | 0.7.1 | python3_ia |
-| [nvidia-nccl-cu12](https://developer.nvidia.com/cuda-zone) | 2.27.3 | python3_ia |
+| [nvidia-nccl-cu12](https://developer.nvidia.com/cuda-zone) | 2.27.5 | python3_ia |
 | [nvidia-nvjitlink-cu12](https://developer.nvidia.com/cuda-zone) | 12.8.93 | python3_ia |
+| [nvidia-nvshmem-cu12](https://developer.nvidia.com/cuda-zone) | 3.3.20 | python3_ia |
 | [nvidia-nvtx-cu12](https://developer.nvidia.com/cuda-zone) | 12.8.90 | python3_ia |
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
-| [onnx](https://onnx.ai/) | 1.18.0 | python3_ia |
-| [onnxruntime](https://onnxruntime.ai) | 1.22.0 | python3_ia |
+| [onnx](https://onnx.ai/) | 1.20.0 | python3_ia |
 | [onnxscript](https://microsoft.github.io/onnxscript/) | 0.2.5 | python3_ia |
 | [opt_einsum](https://pypi.org/project/opt_einsum) | 3.4.0 | python3_ia |
-| [optree](https://github.com/metaopt/optree) | 0.15.0 | python3_ia |
+| [optree](https://github.com/metaopt/optree) | 0.18.0 | python3_ia |
 | [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.5.1.post0 | python3_ia |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 2.0.0 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
@@ -47,15 +47,12 @@
 | [sympy](https://sympy.org) | 1.14.0 | python3_ia |
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.2 | python3_ia |
 | [tensorboard](https://github.com/tensorflow/tensorboard) | 2.20.0 | python3_ia |
-| [tensorflow-hub](https://github.com/tensorflow/hub) | 0.16.1 | python3_ia |
-| [tensorflow](https://www.tensorflow.org/) | 2.20.0 | python3_ia |
-| [tf_keras](https://keras.io/) | 2.20.1 | python3_ia |
-| [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.15 | python3_ia |
+| [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.22 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.21.1 | python3_ia |
-| [torch](https://pytorch.org/) | 2.8.0 | python3_ia |
+| [torch](https://pytorch.org) | 2.9.1 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.7.1 | python3_ia |
-| [torchvision](https://github.com/pytorch/vision) | 0.23.0 | python3_ia |
+| [torchvision](https://github.com/pytorch/vision) | 0.24.1 | python3_ia |
 | [transformers](https://github.com/huggingface/transformers) | 4.53.3 | python3_ia |
-| [triton](https://github.com/triton-lang/triton/) | 3.4.0 | python3_ia |
+| [triton](https://github.com/triton-lang/triton/) | 3.5.1 | python3_ia |
 
-*(57 components)*
+*(54 components)*

@@ -31,7 +31,7 @@ from nvidia import nvjitlink
 from nvidia import nvtx
 import oauthlib
 import onnx
-import onnxruntime
+#import onnxruntime not Python 3.14 compliant
 import onnxscript
 import opt_einsum
 import optree
@@ -43,9 +43,9 @@ import segmentation_models_pytorch
 import sympy
 import tensorboard_data_server
 import tensorboard
-import tensorflow
-import tensorflow_hub
-import tf_keras
+#import tensorflow not Python 3.14 compliant
+#import tensorflow_hub not Python 3.14 compliant
+#import tf_keras not Python 3.14 compliant
 import timm
 import tokenizers
 import torch
