@@ -16,5 +16,11 @@
 - bump torch from 2.7.1 to 2.8.0 (fix moderate CVE-2025-3730) (#227)
 - bump keras from 3.11.3 to 3.12.0 (fix high CVE-2025-12060) (#229)
 - bump safetensors from 0.5.3 to 0.6.2 (#230)
+- bump grpcio from 1.71.0 to 1.76.0 (compat Python 3.14) (#232)
+- bump ml-dtypes from 0.5.1 to 0.5.4 (compat Python 3.14) (#233)
+- bump onnx from 1.18.0 to 1.20.0 (compat Python 3.14) (#234)
+- bump optree from 0.15.0 to 0.18.0 (compat Python 3.14) (#235)
+- bump timm from 1.0.15 to 1.0.22 (compat Python 3.14) (#236)
+- bump torch from 2.8.0 to 2.9.1 (compat Python 3.14) (#237)
 
 
