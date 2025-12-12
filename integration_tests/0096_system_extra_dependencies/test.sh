@@ -14,6 +14,9 @@ export PATH=${PATH}:${PWD}/..
 RET=0
 
 
+
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib64/openmpi/lib
+
 cd "${MFEXT_HOME}" || exit 1
 cd opt || exit 1
 for layer in *; do
