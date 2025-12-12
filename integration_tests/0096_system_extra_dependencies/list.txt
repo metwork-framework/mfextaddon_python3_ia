@@ -29,6 +29,7 @@ libefa.so.1
 libelf.so.1
 libev.so.4
 libevent-2.1.so.6
+libevent_core-2.1.so.6
 libevent_pthreads-2.1.so.6
 libexpat.so.1
 libexslt.so.0
@@ -122,6 +123,9 @@ libnss3.so
 libnssutil3.so
 libnuma.so.1
 libonig.so.5
+libopen-orted-mpir.so
+libopen-pal.so.40
+libopen-rte.so.40
 libopenblas.so.0
 libopenjp2.so.7
 liboshmem.so.40

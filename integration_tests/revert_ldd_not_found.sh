@@ -15,6 +15,7 @@ if test "$1" = "--help"; then
     exit 0
 fi
 
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib64/openmpi/lib
 for F in $(find . -type f -name "*.so*" ; find . -type f -wholename "*/bin/*"); do
     N=$(ldd "${F}" 2>/dev/null |grep "=>" |awk -F '=>' '{print $1;}' |grep -c "$1")
     if test "$N" -gt 0; then
