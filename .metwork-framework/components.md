@@ -11,11 +11,7 @@
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
 | [grpcio](https://grpc.io) | 1.71.0 | python3_ia |
 | [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 0.31.4 | python3_ia |
-<<<<<<< HEAD
-| [keras](https://pypi.org/project/keras) | 3.11.3 | python3_ia |
-=======
 | [keras](https://pypi.org/project/keras) | 3.13.1 | python3_ia |
->>>>>>> 1e95e1b (feat: bump keras from 3.12.0 to 3.13.1 (fix high CVE-2026-0897) (#241))
 | [libclang](https://github.com/sighingnow/libclang) | 18.1.1 | python3_ia |
 | [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.14.3 | python3_ia |
 | [lightning](https://github.com/Lightning-AI/lightning) | 2.5.1.post0 | python3_ia |
