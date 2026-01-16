@@ -22,5 +22,6 @@
 - bump optree from 0.15.0 to 0.18.0 (compat Python 3.14) (#235)
 - bump timm from 1.0.15 to 1.0.22 (compat Python 3.14) (#236)
 - bump torch from 2.8.0 to 2.9.1 (compat Python 3.14) (#237)
+- bump lightning from 2.5.5 to 2.6.0 (#239)
 
 
