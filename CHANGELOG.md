@@ -23,5 +23,6 @@
 - bump timm from 1.0.15 to 1.0.22 (compat Python 3.14) (#236)
 - bump torch from 2.8.0 to 2.9.1 (compat Python 3.14) (#237)
 - bump lightning from 2.5.5 to 2.6.0 (#239)
+- bump keras from 3.12.0 to 3.13.1 (fix high CVE-2026-0897) (#241)
 
 
