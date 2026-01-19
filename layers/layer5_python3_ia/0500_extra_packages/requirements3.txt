@@ -4,7 +4,7 @@ diffusers==0.33.1
 dm-tree==0.1.9
 einops==0.8.1
 flatbuffers==25.2.10
-google-auth==2.40.1
+google-auth==2.41.1
 google-auth-oauthlib==1.2.2
 google-pasta==0.2.0
 grpcio==1.76.0
