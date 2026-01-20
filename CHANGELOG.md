@@ -24,5 +24,6 @@
 - bump torch from 2.8.0 to 2.9.1 (compat Python 3.14) (#237)
 - bump lightning from 2.5.5 to 2.6.0 (#239)
 - bump keras from 3.12.0 to 3.13.1 (fix high CVE-2026-0897) (#241)
+- bump google-auth from 2.40.1 to 2.41.1 (compat cachetools>=6) (#243)
 
 
