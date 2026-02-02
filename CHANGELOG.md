@@ -5,6 +5,7 @@
 ### New Features
 
 - bump keras from 3.12.0 to 3.13.1 (fix high CVE-2026-0897) (#241)
+- upgrade tensorflow to 2.20.0 (required by protobuf upgrade) (#244)
 
 ## v2.3.3 (2025-09-02)
 
