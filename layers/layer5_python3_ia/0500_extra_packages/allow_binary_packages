@@ -2,6 +2,8 @@ absl-py
 aiohappyeyeballs
 astunparse
 cmake
+cuda-bindings
+cuda-pathfinder
 flatbuffers
 google-auth
 google-auth-oauthlib

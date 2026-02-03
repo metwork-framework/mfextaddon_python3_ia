@@ -2,6 +2,8 @@
 | --- | --- | --- |
 | [absl-py](https://github.com/abseil/abseil-py) | 2.2.2 | python3_ia |
 | [astunparse](https://github.com/simonpercivall/astunparse) | 1.6.3 | python3_ia |
+| [cuda-bindings](https://pypi.org/project/cuda-bindings) | 12.9.4 | python3_ia |
+| [cuda-pathfinder](https://pypi.org/project/cuda-pathfinder) | 1.1.0 | python3_ia |
 | [diffusers](https://github.com/huggingface/diffusers) | 0.33.1 | python3_ia |
 | [dm-tree](https://github.com/deepmind/tree) | 0.1.9 | python3_ia |
 | [einops](https://github.com/arogozhnikov/einops) | 0.8.1 | python3_ia |
@@ -32,7 +34,7 @@
 | [nvidia-cusparselt-cu12](https://developer.nvidia.com/cusparselt) | 0.7.1 | python3_ia |
 | [nvidia-nccl-cu12](https://developer.nvidia.com/cuda-zone) | 2.27.5 | python3_ia |
 | [nvidia-nvjitlink-cu12](https://developer.nvidia.com/cuda-zone) | 12.8.93 | python3_ia |
-| [nvidia-nvshmem-cu12](https://developer.nvidia.com/cuda-zone) | 3.3.20 | python3_ia |
+| [nvidia-nvshmem-cu12](https://developer.nvidia.com/cuda-zone) | 3.4.5 | python3_ia |
 | [nvidia-nvtx-cu12](https://developer.nvidia.com/cuda-zone) | 12.8.90 | python3_ia |
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
 | [onnx](https://onnx.ai/) | 1.20.0 | python3_ia |
@@ -53,10 +55,10 @@
 | [tf_keras](https://keras.io/) | 2.20.1 | python3_ia |
 | [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.22 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.21.1 | python3_ia |
-| [torch](https://pytorch.org) | 2.9.1 | python3_ia |
+| [torch](https://pytorch.org) | 2.10.0 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.7.1 | python3_ia |
-| [torchvision](https://github.com/pytorch/vision) | 0.24.1 | python3_ia |
+| [torchvision](https://github.com/pytorch/vision) | 0.25.0 | python3_ia |
 | [transformers](https://github.com/huggingface/transformers) | 4.53.3 | python3_ia |
-| [triton](https://github.com/triton-lang/triton/) | 3.5.1 | python3_ia |
+| [triton](https://github.com/triton-lang/triton/) | 3.6.0 | python3_ia |
 
-*(58 components)*
+*(60 components)*
