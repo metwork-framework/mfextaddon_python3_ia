@@ -26,5 +26,8 @@
 - bump keras from 3.12.0 to 3.13.1 (fix high CVE-2026-0897) (#241)
 - bump google-auth from 2.40.1 to 2.41.1 (compat cachetools>=6) (#243)
 - bump torch, torchvision, triton to 2.10.0, 0.25.0, 3.6.0 (#245)
+- bump keras from 3.13.1 to 3.13.2 (fix high CVE-2026-0897) (#246)
+- bump lightning from 2.6.0 to 2.6.1 (#249)
+- bump onnx from 1.20.0 to 1.20.1 (#250)
 
 
