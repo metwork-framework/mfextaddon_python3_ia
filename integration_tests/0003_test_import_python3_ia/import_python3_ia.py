@@ -2,6 +2,7 @@ import absl #absl_py
 import antlr4 #antlr4-python3-runtime
 import astunparse
 import axial_attention
+import bitsandbytes
 import dataclasses_json
 import diffusers
 import tree #dm_tree
