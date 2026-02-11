@@ -3,14 +3,9 @@
 | [absl-py](https://github.com/abseil/abseil-py) | 2.2.2 | python3_ia |
 | [antlr4-python3-runtime](http://www.antlr.org) | 4.9.3 | python3_ia |
 | [astunparse](https://github.com/simonpercivall/astunparse) | 1.6.3 | python3_ia |
-<<<<<<< HEAD
-=======
 | [axial_attention](https://github.com/lucidrains/axial-attention) | 0.6.1 | python3_ia |
 | [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) | 0.49.1 | python3_ia |
-| [cuda-bindings](https://pypi.org/project/cuda-bindings) | 12.9.4 | python3_ia |
-| [cuda-pathfinder](https://pypi.org/project/cuda-pathfinder) | 1.1.0 | python3_ia |
 | [dataclasses-json](https://github.com/lidatong/dataclasses-json) | 0.6.7 | python3_ia |
->>>>>>> 06f9e89 (feat: add mfai package and dependencies (#251))
 | [diffusers](https://github.com/huggingface/diffusers) | 0.33.1 | python3_ia |
 | [dm-tree](https://github.com/deepmind/tree) | 0.1.9 | python3_ia |
 | [einops](https://github.com/arogozhnikov/einops) | 0.8.1 | python3_ia |
@@ -29,14 +24,10 @@
 | [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.14.3 | python3_ia |
 | [lightning](https://github.com/Lightning-AI/lightning) | 2.5.1.post0 | python3_ia |
 | [lit](http://llvm.org) | 18.1.8 | python3_ia |
-<<<<<<< HEAD
-| [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.5.1 | python3_ia |
-=======
 | [marshmallow](https://pypi.org/project/marshmallow) | 3.26.2 | python3_ia |
 | [mfai](https://github.com/meteofrance/mfai) | 6.3.0 | python3_ia |
-| [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.5.4 | python3_ia |
+| [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.5.1 | python3_ia |
 | [monai](https://monai.io/) | 1.5.2 | python3_ia |
->>>>>>> 06f9e89 (feat: add mfai package and dependencies (#251))
 | [mpmath](http://mpmath.org/) | 1.3.0 | python3_ia |
 | [namex](https://pypi.org/project/namex) | 0.0.9 | python3_ia |
 | [nvidia-cublas-cu12](https://developer.nvidia.com/cuda-zone) | 12.6.4.1 | python3_ia |
@@ -55,12 +46,8 @@
 | [nvidia-nvjitlink-cu12](https://developer.nvidia.com/cuda-zone) | 12.6.85 | python3_ia |
 | [nvidia-nvtx-cu12](https://developer.nvidia.com/cuda-zone) | 12.6.77 | python3_ia |
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
-<<<<<<< HEAD
-| [onnx](https://onnx.ai/) | 1.17.0 | python3_ia |
-=======
 | [omegaconf](https://github.com/omry/omegaconf) | 2.3.0 | python3_ia |
-| [onnx](https://onnx.ai/) | 1.20.1 | python3_ia |
->>>>>>> 06f9e89 (feat: add mfai package and dependencies (#251))
+| [onnx](https://onnx.ai/) | 1.17.0 | python3_ia |
 | [onnxruntime](https://onnxruntime.ai) | 1.22.0 | python3_ia |
 | [onnxscript](https://microsoft.github.io/onnxscript/) | 0.2.5 | python3_ia |
 | [opt_einsum](https://pypi.org/project/opt_einsum) | 3.4.0 | python3_ia |
@@ -78,27 +65,15 @@
 | [tensorflow-hub](https://github.com/tensorflow/hub) | 0.16.1 | python3_ia |
 | [tensorflow](https://www.tensorflow.org/) | 2.20.0 | python3_ia |
 | [tf_keras](https://keras.io/) | 2.20.1 | python3_ia |
-<<<<<<< HEAD
+| [tiktoken](https://github.com/openai/tiktoken) | 0.12.0 | python3_ia |
 | [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.15 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.21.1 | python3_ia |
+| [torch-geometric](https://pyg.org) | 2.7.0 | python3_ia |
 | [torch](https://pytorch.org/) | 2.7.1 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.7.1 | python3_ia |
 | [torchvision](https://github.com/pytorch/vision) | 0.22.1 | python3_ia |
 | [transformers](https://github.com/huggingface/transformers) | 4.52.1 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.3.1 | python3_ia |
-
-*(58 components)*
-=======
-| [tiktoken](https://github.com/openai/tiktoken) | 0.12.0 | python3_ia |
-| [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.22 | python3_ia |
-| [tokenizers](https://github.com/huggingface/tokenizers) | 0.21.1 | python3_ia |
-| [torch-geometric](https://pyg.org) | 2.7.0 | python3_ia |
-| [torch](https://pytorch.org) | 2.10.0 | python3_ia |
-| [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.7.1 | python3_ia |
-| [torchvision](https://github.com/pytorch/vision) | 0.25.0 | python3_ia |
-| [transformers](https://github.com/huggingface/transformers) | 4.53.3 | python3_ia |
-| [triton](https://github.com/triton-lang/triton/) | 3.6.0 | python3_ia |
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
 
-*(77 components)*
->>>>>>> 06f9e89 (feat: add mfai package and dependencies (#251))
+*(75 components)*
