@@ -3,12 +3,7 @@ aiohappyeyeballs
 astunparse
 bitsandbytes
 cmake
-<<<<<<< HEAD
-=======
-cuda-bindings
-cuda-pathfinder
 dataclasses-json
->>>>>>> 06f9e89 (feat: add mfai package and dependencies (#251))
 flatbuffers
 google-auth
 google-auth-oauthlib
