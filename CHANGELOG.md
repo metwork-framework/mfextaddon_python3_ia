@@ -29,5 +29,6 @@
 - bump keras from 3.13.1 to 3.13.2 (fix high CVE-2026-0897) (#246)
 - bump lightning from 2.6.0 to 2.6.1 (#249)
 - bump onnx from 1.20.0 to 1.20.1 (#250)
+- add mfai package and dependencies (#251)
 
 
