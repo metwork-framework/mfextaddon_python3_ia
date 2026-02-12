@@ -1,12 +1,15 @@
 absl-py
 aiohappyeyeballs
 astunparse
+bitsandbytes
 cmake
+dataclasses-json
 flatbuffers
 google-auth
 google-auth-oauthlib
 google-pasta
 grpcio
+hydra-core
 Keras
 keras-nightly
 Keras-Preprocessing
@@ -27,6 +30,7 @@ nvidia-nccl-cu12
 nvidia-nvjitlink-cu12
 nvidia-nvtx-cu12
 oauthlib
+omegaconf
 onnx
 onnxruntime
 onnxscript
