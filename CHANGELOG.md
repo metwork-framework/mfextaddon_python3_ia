@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- add mfai package and dependencies (backport #251) (#252)
+
 ## v2.3.5 (2026-02-09)
 
 ### New Features
