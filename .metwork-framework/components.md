@@ -23,7 +23,7 @@
 | [jsonnet](https://jsonnet.org) | 0.21.0 | python3_ia |
 | [keras](https://pypi.org/project/keras) | 3.13.2 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 18.1.1 | python3_ia |
-| [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.14.3 | python3_ia |
+| [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.15.3 | python3_ia |
 | [lightning](https://github.com/Lightning-AI/lightning) | 2.6.1 | python3_ia |
 | [lit](http://llvm.org) | 18.1.8 | python3_ia |
 | [marshmallow](https://pypi.org/project/marshmallow) | 3.26.2 | python3_ia |
@@ -72,7 +72,7 @@
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.21.1 | python3_ia |
 | [torch-geometric](https://pyg.org) | 2.7.0 | python3_ia |
 | [torch](https://pytorch.org) | 2.10.0 | python3_ia |
-| [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.7.1 | python3_ia |
+| [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.9.0 | python3_ia |
 | [torchvision](https://github.com/pytorch/vision) | 0.25.0 | python3_ia |
 | [transformers](https://github.com/huggingface/transformers) | 4.53.3 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.6.0 | python3_ia |
