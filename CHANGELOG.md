@@ -30,5 +30,6 @@
 - bump lightning from 2.6.0 to 2.6.1 (#249)
 - bump onnx from 1.20.0 to 1.20.1 (#250)
 - add mfai package and dependencies (#251)
+- bump torchmetrics to 1.9.0 and lightning-utilities to 0.15.3 (#256)
 
 
