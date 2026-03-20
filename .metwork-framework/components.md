@@ -18,7 +18,6 @@
 | [grpcio](https://grpc.io) | 1.76.0 | python3_ia |
 | [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 0.31.4 | python3_ia |
 | [hydra-core](https://github.com/facebookresearch/hydra) | 1.3.2 | python3_ia |
-| [importlib_resources](https://pypi.org/project/importlib_resources) | 6.5.2 | python3_ia |
 | [jsonargparse](https://pypi.org/project/jsonargparse) | 4.46.0 | python3_ia |
 | [jsonnet](https://jsonnet.org) | 0.21.0 | python3_ia |
 | [keras](https://pypi.org/project/keras) | 3.13.2 | python3_ia |
@@ -78,4 +77,4 @@
 | [triton](https://github.com/triton-lang/triton/) | 3.6.0 | python3_ia |
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
 
-*(77 components)*
+*(76 components)*
