@@ -31,5 +31,6 @@
 - bump onnx from 1.20.0 to 1.20.1 (#250)
 - add mfai package and dependencies (#251)
 - bump torchmetrics to 1.9.0 and lightning-utilities to 0.15.3 (#256)
+- bump onnxruntime from 1.22.0 to 1.24.4 (compat Python 3.14) (#258)
 
 
