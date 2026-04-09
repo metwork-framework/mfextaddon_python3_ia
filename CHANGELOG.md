@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump onnx from 1.20.1 to 1.21.0 (fix CVE-2026-34445/28500) (#262)
+
 ## v2.3.6 (2026-02-13)
 
 ### New Features
