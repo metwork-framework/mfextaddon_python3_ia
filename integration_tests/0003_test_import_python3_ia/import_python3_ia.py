@@ -1,4 +1,5 @@
 import absl #absl_py
+import annotated_doc
 import antlr4 #antlr4-python3-runtime
 import astunparse
 import axial_attention
@@ -12,6 +13,7 @@ import google_auth_oauthlib
 import google #google_auth
 import pasta #google_pasta
 import grpc #grpcio
+import hf_xet
 import huggingface_hub
 import hydra #hydra-core
 import jsonargparse
@@ -57,6 +59,7 @@ import sympy
 import tabulate
 import tensorboard_data_server
 import tensorboard
+import tensorboardX
 import tensorflow
 import tensorflow_hub
 import tf_keras
