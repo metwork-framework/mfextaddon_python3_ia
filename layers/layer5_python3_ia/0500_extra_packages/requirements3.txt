@@ -53,7 +53,7 @@ onnxruntime==1.24.4
 onnxscript==0.2.5
 opt-einsum==3.4.0
 optree==0.18.0
-pytorch-lightning==2.5.1.post0
+pytorch-lightning==2.6.1
 requests-oauthlib==2.0.0
 rsa==4.9
 safetensors==0.6.2

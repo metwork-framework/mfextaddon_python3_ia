@@ -58,3 +58,4 @@ torch
 tensorflow-io
 torchvision
 triton
+pytorch-lightning
