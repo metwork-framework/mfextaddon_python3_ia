@@ -12,3 +12,4 @@ transformers
 diffusers
 huggingface-hub
 tensorflow-hub
+mfai

@@ -1,5 +1,24 @@
 # release_2.3 CHANGELOG
 
+## v2.3.6 (2026-02-13)
+
+### New Features
+
+- add mfai package and dependencies (backport #251) (#252)
+
+## v2.3.5 (2026-02-09)
+
+### New Features
+
+- bump keras from 3.13.1 to 3.13.2 (fix high CVE-2026-0897) (#246)
+
+## v2.3.4 (2026-02-02)
+
+### New Features
+
+- bump keras from 3.12.0 to 3.13.1 (fix high CVE-2026-0897) (#241)
+- upgrade tensorflow to 2.20.0 (required by protobuf upgrade) (#244)
+
 ## v2.3.3 (2025-09-02)
 
 - No interesting change
