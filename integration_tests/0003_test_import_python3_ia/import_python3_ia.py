@@ -18,12 +18,12 @@ import huggingface_hub
 import hydra #hydra-core
 import jsonargparse
 import _jsonnet #jsonnet
-import keras
+#import keras not Python 3.14 compliant
 import clang #libclang
 import lightning_utilities
 import lightning
 import marshmallow
-import mfai
+#import mfai
 import ml_dtypes
 import monai
 import mpmath
@@ -45,7 +45,7 @@ from nvidia import nvtx
 import oauthlib
 import omegaconf
 import onnx
-import onnxruntime
+#import onnxruntime not Python 3.14 compliant
 import onnxscript
 import opt_einsum
 import optree
@@ -60,9 +60,9 @@ import tabulate
 import tensorboard_data_server
 import tensorboard
 import tensorboardX
-import tensorflow
-import tensorflow_hub
-import tf_keras
+#import tensorflow not Python 3.14 compliant
+#import tensorflow_hub not Python 3.14 compliant
+#import tf_keras not Python 3.14 compliant
 import tiktoken
 import timm
 import tokenizers
