@@ -17,6 +17,7 @@ Keras
 keras-nightly
 Keras-Preprocessing
 libclang
+lightning-fabric
 nvidia-cublas-cu12
 nvidia-cuda-cupti-cu12
 nvidia-cuda-nvcc-cu12
@@ -41,6 +42,7 @@ onnxscript
 opt-einsum
 optree
 protobuf
+pytorch-lightning
 PyYAML
 requests-oauthlib
 rich
@@ -58,5 +60,3 @@ torch
 tensorflow-io
 torchvision
 triton
-pytorch-lightning
-meson

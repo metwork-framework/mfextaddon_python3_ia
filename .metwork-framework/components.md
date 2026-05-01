@@ -22,7 +22,10 @@
 | [hydra-core](https://github.com/facebookresearch/hydra) | 1.3.2 | python3_ia |
 | [jsonargparse](https://pypi.org/project/jsonargparse) | 4.46.0 | python3_ia |
 | [jsonnet](https://jsonnet.org) | 0.21.0 | python3_ia |
+| [libclang](https://github.com/sighingnow/libclang) | 18.1.1 | python3_ia |
+| [lightning-fabric](https://github.com/Lightning-AI/lightning) | 2.6.1 | python3_ia |
 | [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.15.3 | python3_ia |
+| [lightning](https://github.com/Lightning-AI/lightning) | 2.6.1 | python3_ia |
 | [lit](http://llvm.org) | 18.1.8 | python3_ia |
 | [marshmallow](https://pypi.org/project/marshmallow) | 3.26.2 | python3_ia |
 | [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.5.4 | python3_ia |
@@ -72,4 +75,4 @@
 | [triton](https://github.com/triton-lang/triton/) | 3.6.0 | python3_ia |
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
 
-*(71 components)*
+*(74 components)*

@@ -19,9 +19,10 @@ import hydra #hydra-core
 import jsonargparse
 import _jsonnet #jsonnet
 #import keras not Python 3.14 compliant
-#import clang #libclang
+import clang #libclang
 import lightning_utilities
-#import lightning
+import lightning_fabric
+import lightning
 import marshmallow
 #import mfai
 import ml_dtypes
