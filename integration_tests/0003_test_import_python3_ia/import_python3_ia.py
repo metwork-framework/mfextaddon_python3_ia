@@ -20,6 +20,7 @@ import jsonargparse
 import _jsonnet #jsonnet
 import keras
 import clang #libclang
+import lightning_fabric
 import lightning_utilities
 import lightning
 import marshmallow
