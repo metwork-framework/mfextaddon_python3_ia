@@ -34,5 +34,6 @@
 - bump onnxruntime from 1.22.0 to 1.24.4 (compat Python 3.14) (#258)
 - bump onnx from 1.20.1 to 1.21.0 (fix CVE-2026-34445/28500) (#262)
 - bump transformers from 4.53.3 to 5.3.0 (fix moderate CVE-2026-1… (#264)
+- add lightning-fabric (#268)
 
 
