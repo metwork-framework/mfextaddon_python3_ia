@@ -9,7 +9,7 @@
 | [cuda-bindings](https://pypi.org/project/cuda-bindings) | 12.9.4 | python3_ia |
 | [cuda-pathfinder](https://pypi.org/project/cuda-pathfinder) | 1.1.0 | python3_ia |
 | [dataclasses-json](https://github.com/lidatong/dataclasses-json) | 0.6.7 | python3_ia |
-| [diffusers](https://github.com/huggingface/diffusers) | 0.33.1 | python3_ia |
+| [diffusers](https://github.com/huggingface/diffusers) | 0.38.0 | python3_ia |
 | [dm-tree](https://github.com/deepmind/tree) | 0.1.9 | python3_ia |
 | [einops](https://github.com/arogozhnikov/einops) | 0.8.1 | python3_ia |
 | [flatbuffers](https://google.github.io/flatbuffers/) | 25.2.10 | python3_ia |
@@ -59,7 +59,7 @@
 | [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.6.1 | python3_ia |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 2.0.0 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
-| [safetensors](https://github.com/huggingface/safetensors) | 0.6.2 | python3_ia |
+| [safetensors](https://github.com/huggingface/safetensors) | 0.8.0rc0 | python3_ia |
 | [segmentation_models_pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) | 0.5.0 | python3_ia |
 | [sentencepiece](https://github.com/google/sentencepiece) | 0.2.1 | python3_ia |
 | [sympy](https://sympy.org) | 1.14.0 | python3_ia |
