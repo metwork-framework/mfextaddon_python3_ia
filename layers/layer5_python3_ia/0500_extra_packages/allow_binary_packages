@@ -9,6 +9,7 @@ google-auth
 google-auth-oauthlib
 google-pasta
 grpcio
+hf_xet
 hydra-core
 Keras
 keras-nightly
