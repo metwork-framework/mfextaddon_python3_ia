@@ -51,7 +51,6 @@ tensorboard-data-server
 tensorboard-plugin-wit
 tensorflow
 tensorflow-estimator
-tensorflow-hub
 tensorflow-io-gcs-filesystem
 tf-estimator-nightly
 torch

@@ -67,7 +67,6 @@
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.2 | python3_ia |
 | [tensorboard](https://github.com/tensorflow/tensorboard) | 2.20.0 | python3_ia |
 | [tensorboardX](https://github.com/lanpa/tensorboardX) | 2.6.5 | python3_ia |
-| [tensorflow-hub](https://github.com/tensorflow/hub) | 0.16.1 | python3_ia |
 | [tensorflow](https://www.tensorflow.org/) | 2.20.0 | python3_ia |
 | [tf_keras](https://keras.io/) | 2.20.1 | python3_ia |
 | [tiktoken](https://github.com/openai/tiktoken) | 0.12.0 | python3_ia |
@@ -81,4 +80,4 @@
 | [triton](https://github.com/triton-lang/triton/) | 3.6.0 | python3_ia |
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
 
-*(80 components)*
+*(79 components)*
