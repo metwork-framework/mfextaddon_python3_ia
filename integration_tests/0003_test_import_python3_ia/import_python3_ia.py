@@ -1,5 +1,4 @@
 import absl #absl_py
-import annotated_doc
 import antlr4 #antlr4-python3-runtime
 import astunparse
 import axial_attention

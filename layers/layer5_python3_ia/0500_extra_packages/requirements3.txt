@@ -1,5 +1,4 @@
 absl-py==2.2.2
-annotated-doc==0.0.4
 antlr4_python3_runtime==4.9.3
 astunparse==1.6.3
 axial_attention==0.6.1

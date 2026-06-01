@@ -1,7 +1,6 @@
 | Name | Version | Layer |
 | --- | --- | --- |
 | [absl-py](https://github.com/abseil/abseil-py) | 2.2.2 | python3_ia |
-| [annotated-doc](https://github.com/fastapi/annotated-doc) | 0.0.4 | python3_ia |
 | [antlr4-python3-runtime](http://www.antlr.org) | 4.9.3 | python3_ia |
 | [astunparse](https://github.com/simonpercivall/astunparse) | 1.6.3 | python3_ia |
 | [axial_attention](https://github.com/lucidrains/axial-attention) | 0.6.1 | python3_ia |
@@ -80,4 +79,4 @@
 | [triton](https://github.com/triton-lang/triton/) | 3.6.0 | python3_ia |
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
 
-*(79 components)*
+*(78 components)*
