@@ -22,8 +22,8 @@ jsonargparse==4.46.0
 jsonnet==0.21.0
 keras==3.13.2
 libclang==18.1.1
-lightning==2.6.1
-lightning-fabric==2.6.1
+lightning==2.6.5
+lightning-fabric==2.6.5
 lightning-utilities==0.15.3
 lit==18.1.8
 marshmallow==3.26.2
@@ -54,7 +54,7 @@ onnxruntime==1.24.4
 onnxscript==0.2.5
 opt-einsum==3.4.0
 optree==0.18.0
-pytorch-lightning==2.6.1
+pytorch-lightning==2.6.5
 requests-oauthlib==2.0.0
 rsa==4.9
 safetensors==0.8.0rc0
