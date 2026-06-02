@@ -36,5 +36,7 @@
 - bump transformers from 4.53.3 to 5.3.0 (fix moderate CVE-2026-1… (#264)
 - add lightning-fabric (#268)
 - bump diffusers to 0.38.0 (fix high CVE-2026-44513/CVE-2026-45804) (#269)
+- bump lightning from 2.6.1 to 2.6.5 (#272)
+- remove tensorflow-hub (not required anymore) (#273)
 
 
