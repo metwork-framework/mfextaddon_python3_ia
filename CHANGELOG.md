@@ -39,5 +39,6 @@
 - bump lightning from 2.6.1 to 2.6.5 (#272)
 - remove tensorflow-hub (not required anymore) (#273)
 - bump google-auth from 2.41.1 to 2.53.0 (#275)
+- bump tensorflow to 2.21.0 and temporarly remove mfai (#276)
 
 
