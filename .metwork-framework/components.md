@@ -4,7 +4,7 @@
 | [antlr4-python3-runtime](http://www.antlr.org) | 4.9.3 | python3_ia |
 | [astunparse](https://github.com/simonpercivall/astunparse) | 1.6.3 | python3_ia |
 | [axial_attention](https://github.com/lucidrains/axial-attention) | 0.6.1 | python3_ia |
-| [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) | 0.49.1 | python3_ia |
+| [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) | 0.49.2 | python3_ia |
 | [cuda-bindings](https://pypi.org/project/cuda-bindings) | 13.3.1 | python3_ia |
 | [cuda-pathfinder](https://pypi.org/project/cuda-pathfinder) | 1.5.5 | python3_ia |
 | [cuda-toolkit](https://developer.nvidia.com/cuda-toolkit) | 13.0.2 | python3_ia |
