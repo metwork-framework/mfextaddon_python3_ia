@@ -1,6 +1,7 @@
 | Name | Version | Layer |
 | --- | --- | --- |
 | [absl-py](https://github.com/abseil/abseil-py) | 2.2.2 | python3_ia |
+| [alembic](https://alembic.sqlalchemy.org) | 1.18.4 | python3_ia |
 | [antlr4-python3-runtime](http://www.antlr.org) | 4.9.3 | python3_ia |
 | [astunparse](https://github.com/simonpercivall/astunparse) | 1.6.3 | python3_ia |
 | [axial_attention](https://github.com/lucidrains/axial-attention) | 0.6.1 | python3_ia |
@@ -8,16 +9,25 @@
 | [cuda-bindings](https://pypi.org/project/cuda-bindings) | 13.3.1 | python3_ia |
 | [cuda-pathfinder](https://pypi.org/project/cuda-pathfinder) | 1.5.5 | python3_ia |
 | [cuda-toolkit](https://developer.nvidia.com/cuda-toolkit) | 13.0.2 | python3_ia |
+| [databricks-sdk](https://pypi.org/project/databricks-sdk) | 0.118.0 | python3_ia |
 | [dataclasses-json](https://github.com/lidatong/dataclasses-json) | 0.6.7 | python3_ia |
 | [diffusers](https://github.com/huggingface/diffusers) | 0.38.0 | python3_ia |
 | [dm-tree](https://github.com/deepmind/tree) | 0.1.9 | python3_ia |
+| [docker](https://github.com/docker/docker-py) | 7.1.0 | python3_ia |
 | [einops](https://github.com/arogozhnikov/einops) | 0.8.1 | python3_ia |
+| [fastapi](https://github.com/fastapi/fastapi) | 0.136.3 | python3_ia |
+| [flask-cors](https://corydolphin.github.io/flask-cors/) | 6.0.5 | python3_ia |
 | [flatbuffers](https://google.github.io/flatbuffers/) | 25.12.19 | python3_ia |
 | [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 1.2.2 | python3_ia |
 | [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.53.0 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
+| [graphene](https://github.com/graphql-python/graphene) | 3.4.3 | python3_ia |
+| [graphql-core](https://github.com/graphql-python/graphql-core) | 3.2.11 | python3_ia |
+| [graphql-relay](https://github.com/graphql-python/graphql-relay-py) | 3.2.0 | python3_ia |
 | [grpcio](https://grpc.io) | 1.76.0 | python3_ia |
+| [gunicorn](https://gunicorn.org) | 26.0.0 | python3_ia |
 | [hf-xet](https://github.com/huggingface/xet-core) | 1.4.3 | python3_ia |
+| [huey](https://pypi.org/project/huey) | 3.0.3 | python3_ia |
 | [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 1.5.0 | python3_ia |
 | [hydra-core](https://github.com/facebookresearch/hydra) | 1.3.2 | python3_ia |
 | [jsonargparse](https://pypi.org/project/jsonargparse) | 4.46.0 | python3_ia |
@@ -29,7 +39,11 @@
 | [lightning](https://github.com/Lightning-AI/lightning) | 2.6.5 | python3_ia |
 | [lit](http://llvm.org) | 18.1.8 | python3_ia |
 | [marshmallow](https://pypi.org/project/marshmallow) | 3.26.2 | python3_ia |
+| [mfai](https://github.com/meteofrance/mfai) | 7.3.0 | python3_ia |
 | [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.5.4 | python3_ia |
+| [mlflow-skinny](https://mlflow.org) | 3.14.0 | python3_ia |
+| [mlflow-tracing](https://mlflow.org) | 3.14.0 | python3_ia |
+| [mlflow](https://mlflow.org) | 3.14.0 | python3_ia |
 | [monai](https://monai.io/) | 1.5.2 | python3_ia |
 | [mpmath](http://mpmath.org/) | 1.3.0 | python3_ia |
 | [namex](https://pypi.org/project/namex) | 0.0.9 | python3_ia |
@@ -53,14 +67,23 @@
 | [onnx](https://onnx.ai/) | 1.21.0 | python3_ia |
 | [onnxruntime](https://onnxruntime.ai) | 1.24.4 | python3_ia |
 | [onnxscript](https://microsoft.github.io/onnxscript/) | 0.2.5 | python3_ia |
+| [opentelemetry-api](https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-api) | 1.42.1 | python3_ia |
+| [opentelemetry-proto](https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-proto) | 1.42.1 | python3_ia |
+| [opentelemetry-sdk](https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-sdk) | 1.42.1 | python3_ia |
+| [opentelemetry-semantic-conventions](https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-semantic-conventions) | 0.63b1 | python3_ia |
 | [opt_einsum](https://pypi.org/project/opt_einsum) | 3.4.0 | python3_ia |
 | [optree](https://github.com/metaopt/optree) | 0.18.0 | python3_ia |
+| [prettytable](https://github.com/prettytable/prettytable) | 3.17.0 | python3_ia |
+| [python-dotenv](https://pypi.org/project/python-dotenv) | 1.2.2 | python3_ia |
 | [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.6.5 | python3_ia |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 2.0.0 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
 | [safetensors](https://github.com/huggingface/safetensors) | 0.8.0rc0 | python3_ia |
 | [segmentation_models_pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) | 0.5.0 | python3_ia |
 | [sentencepiece](https://github.com/google/sentencepiece) | 0.2.1 | python3_ia |
+| [skops](http://github.com/skops-dev/skops) | 0.14.0 | python3_ia |
+| [sqlparse](https://pypi.org/project/sqlparse) | 0.5.5 | python3_ia |
+| [starlette](https://github.com/Kludex/starlette) | 1.3.1 | python3_ia |
 | [sympy](https://sympy.org) | 1.14.0 | python3_ia |
 | [tabulate](https://github.com/astanin/python-tabulate) | 0.9.0 | python3_ia |
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.2 | python3_ia |
@@ -78,5 +101,6 @@
 | [transformers](https://github.com/huggingface/transformers) | 5.3.0 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.7.0 | python3_ia |
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
+| [uvicorn](https://www.uvicorn.org/) | 0.34.2 | python3_ia |
 
-*(78 components)*
+*(102 components)*
