@@ -32,7 +32,7 @@
 | [hydra-core](https://github.com/facebookresearch/hydra) | 1.3.2 | python3_ia |
 | [jsonargparse](https://pypi.org/project/jsonargparse) | 4.46.0 | python3_ia |
 | [jsonnet](https://jsonnet.org) | 0.21.0 | python3_ia |
-| [keras](https://pypi.org/project/keras) | 3.13.2 | python3_ia |
+| [keras](https://pypi.org/project/keras) | 3.14.1 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 18.1.1 | python3_ia |
 | [lightning-fabric](https://github.com/Lightning-AI/lightning) | 2.6.5 | python3_ia |
 | [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.15.3 | python3_ia |
