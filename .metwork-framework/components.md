@@ -18,6 +18,8 @@
 | [fastapi](https://github.com/fastapi/fastapi) | 0.136.3 | python3_ia |
 | [flask-cors](https://corydolphin.github.io/flask-cors/) | 6.0.5 | python3_ia |
 | [flatbuffers](https://google.github.io/flatbuffers/) | 25.12.19 | python3_ia |
+| [gitdb](https://github.com/gitpython-developers/gitdb) | 4.0.12 | python3_ia |
+| [GitPython](https://github.com/gitpython-developers/GitPython) | 3.1.50 | python3_ia |
 | [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 1.2.2 | python3_ia |
 | [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.53.0 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
@@ -82,6 +84,7 @@
 | [segmentation_models_pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) | 0.5.0 | python3_ia |
 | [sentencepiece](https://github.com/google/sentencepiece) | 0.2.1 | python3_ia |
 | [skops](http://github.com/skops-dev/skops) | 0.14.0 | python3_ia |
+| [smmap](https://github.com/gitpython-developers/smmap) | 5.0.2 | python3_ia |
 | [sqlparse](https://pypi.org/project/sqlparse) | 0.5.5 | python3_ia |
 | [starlette](https://github.com/Kludex/starlette) | 1.3.1 | python3_ia |
 | [sympy](https://sympy.org) | 1.14.0 | python3_ia |
@@ -103,4 +106,4 @@
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
 | [uvicorn](https://www.uvicorn.org/) | 0.34.2 | python3_ia |
 
-*(102 components)*
+*(105 components)*
