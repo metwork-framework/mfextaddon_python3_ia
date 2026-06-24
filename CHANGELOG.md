@@ -42,5 +42,7 @@
 - bump tensorflow to 2.21.0 and temporarly remove mfai (#276)
 - bump torch from 2.10.0 to 2.12.0 (#277)
 - bump bitsandbytes from 0.49.1 to 0.49.2 (#278)
+- add mfai 7.3.0 (#279)
+- bump keras from 3.13.2 to 3.14.1 (#281)
 
 
