@@ -44,5 +44,6 @@
 - bump bitsandbytes from 0.49.1 to 0.49.2 (#278)
 - add mfai 7.3.0 (#279)
 - bump keras from 3.13.2 to 3.14.1 (#281)
+- bump onnx from 1.21.0 to 1.22.0 (fix moderate CVE-2026-44512) (#287)
 
 
