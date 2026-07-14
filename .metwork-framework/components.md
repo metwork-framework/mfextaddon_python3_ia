@@ -101,7 +101,7 @@
 | [torch](https://pytorch.org) | 2.12.0 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.9.0 | python3_ia |
 | [torchvision](https://github.com/pytorch/vision) | 0.27.0 | python3_ia |
-| [transformers](https://github.com/huggingface/transformers) | 5.3.0 | python3_ia |
+| [transformers](https://github.com/huggingface/transformers) | 5.5.4 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.7.0 | python3_ia |
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
 | [uvicorn](https://www.uvicorn.org/) | 0.34.2 | python3_ia |
