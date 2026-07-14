@@ -70,11 +70,19 @@
 | [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.15 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.21.1 | python3_ia |
 | [torch-geometric](https://pyg.org) | 2.7.0 | python3_ia |
+<<<<<<< HEAD
 | [torch](https://pytorch.org/) | 2.7.1 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.7.1 | python3_ia |
 | [torchvision](https://github.com/pytorch/vision) | 0.22.1 | python3_ia |
 | [transformers](https://github.com/huggingface/transformers) | 4.52.1 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.3.1 | python3_ia |
+=======
+| [torch](https://pytorch.org) | 2.12.0 | python3_ia |
+| [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.9.0 | python3_ia |
+| [torchvision](https://github.com/pytorch/vision) | 0.27.0 | python3_ia |
+| [transformers](https://github.com/huggingface/transformers) | 5.5.4 | python3_ia |
+| [triton](https://github.com/triton-lang/triton/) | 3.7.0 | python3_ia |
+>>>>>>> fcde270 (feat: bump transformers from 5.3.0 to 5.5.4 (fix high CVE-2026-5241))
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
 
 *(76 components)*

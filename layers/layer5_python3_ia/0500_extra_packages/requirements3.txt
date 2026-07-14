@@ -71,6 +71,11 @@ torch==2.7.1
 torchmetrics==1.7.1
 torchvision==0.22.1
 torch-geometric==2.7.0
+<<<<<<< HEAD
 transformers==4.52.1
 triton==3.3.1
+=======
+transformers==5.5.4
+triton==3.7.0
+>>>>>>> fcde270 (feat: bump transformers from 5.3.0 to 5.5.4 (fix high CVE-2026-5241))
 typeshed-client==2.8.2
