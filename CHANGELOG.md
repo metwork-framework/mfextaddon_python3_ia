@@ -45,5 +45,6 @@
 - add mfai 7.3.0 (#279)
 - bump keras from 3.13.2 to 3.14.1 (#281)
 - bump onnx from 1.21.0 to 1.22.0 (fix moderate CVE-2026-44512) (#287)
+- bump transformers from 5.3.0 to 5.5.4 (fix high CVE-2026-5241)
 
 
