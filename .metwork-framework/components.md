@@ -2,6 +2,7 @@
 | --- | --- | --- |
 | [absl-py](https://github.com/abseil/abseil-py) | 2.2.2 | python3_ia |
 | [antlr4-python3-runtime](http://www.antlr.org) | 4.9.3 | python3_ia |
+| [anyio](https://pypi.org/project/anyio) | 4.9.0 | python3_ia |
 | [astunparse](https://github.com/simonpercivall/astunparse) | 1.6.3 | python3_ia |
 | [axial_attention](https://github.com/lucidrains/axial-attention) | 0.6.1 | python3_ia |
 | [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) | 0.49.1 | python3_ia |
@@ -14,8 +15,11 @@
 | [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.40.1 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
 | [grpcio](https://grpc.io) | 1.71.0 | python3_ia |
+| [h11](https://github.com/python-hyper/h11) | 0.16.0 | python3_ia |
 | [hf-xet](https://github.com/huggingface/xet-core) | 1.4.3 | python3_ia |
-| [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 0.34.6 | python3_ia |
+| [httpcore](https://www.encode.io/httpcore/) | 1.0.9 | python3_ia |
+| [httpx](https://github.com/encode/httpx) | 0.28.1 | python3_ia |
+| [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 1.5.0 | python3_ia |
 | [hydra-core](https://github.com/facebookresearch/hydra) | 1.3.2 | python3_ia |
 | [importlib_resources](https://pypi.org/project/importlib_resources) | 6.5.2 | python3_ia |
 | [jsonargparse](https://pypi.org/project/jsonargparse) | 4.46.0 | python3_ia |
@@ -59,6 +63,8 @@
 | [safetensors](https://github.com/huggingface/safetensors) | 0.8.0rc0 | python3_ia |
 | [segmentation_models_pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) | 0.5.0 | python3_ia |
 | [sentencepiece](https://github.com/google/sentencepiece) | 0.2.1 | python3_ia |
+| [shellingham](https://github.com/sarugaku/shellingham) | 1.5.4 | python3_ia |
+| [sniffio](https://github.com/python-trio/sniffio) | 1.3.1 | python3_ia |
 | [sympy](https://sympy.org) | 1.14.0 | python3_ia |
 | [tabulate](https://github.com/astanin/python-tabulate) | 0.9.0 | python3_ia |
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.2 | python3_ia |
@@ -68,13 +74,14 @@
 | [tf_keras](https://keras.io/) | 2.20.1 | python3_ia |
 | [tiktoken](https://github.com/openai/tiktoken) | 0.12.0 | python3_ia |
 | [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.15 | python3_ia |
-| [tokenizers](https://github.com/huggingface/tokenizers) | 0.21.1 | python3_ia |
+| [tokenizers](https://github.com/huggingface/tokenizers) | 0.22.2 | python3_ia |
 | [torch-geometric](https://pyg.org) | 2.7.0 | python3_ia |
 | [torch](https://pytorch.org/) | 2.7.1 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.7.1 | python3_ia |
 | [torchvision](https://github.com/pytorch/vision) | 0.22.1 | python3_ia |
-| [transformers](https://github.com/huggingface/transformers) | 4.52.1 | python3_ia |
+| [transformers](https://github.com/huggingface/transformers) | 5.5.4 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.3.1 | python3_ia |
+| [typer](https://github.com/fastapi/typer) | 0.15.2 | python3_ia |
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
 
-*(76 components)*
+*(83 components)*
