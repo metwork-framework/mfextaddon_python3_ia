@@ -8,7 +8,7 @@
 | [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) | 0.49.2 | python3_ia |
 | [cuda-bindings](https://pypi.org/project/cuda-bindings) | 13.3.1 | python3_ia |
 | [cuda-pathfinder](https://pypi.org/project/cuda-pathfinder) | 1.5.5 | python3_ia |
-| [cuda-toolkit](https://developer.nvidia.com/cuda-toolkit) | 13.0.2 | python3_ia |
+| [cuda-toolkit](https://developer.nvidia.com/cuda-toolkit) | 13.0.3.0 | python3_ia |
 | [databricks-sdk](https://pypi.org/project/databricks-sdk) | 0.118.0 | python3_ia |
 | [dataclasses-json](https://github.com/lidatong/dataclasses-json) | 0.6.7 | python3_ia |
 | [diffusers](https://github.com/huggingface/diffusers) | 0.38.0 | python3_ia |
@@ -98,11 +98,11 @@
 | [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.22 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.22.2 | python3_ia |
 | [torch-geometric](https://pyg.org) | 2.7.0 | python3_ia |
-| [torch](https://pytorch.org) | 2.12.0 | python3_ia |
+| [torch](https://pytorch.org) | 2.13.0 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.9.0 | python3_ia |
-| [torchvision](https://github.com/pytorch/vision) | 0.27.0 | python3_ia |
+| [torchvision](https://github.com/pytorch/vision) | 0.28.0 | python3_ia |
 | [transformers](https://github.com/huggingface/transformers) | 5.5.4 | python3_ia |
-| [triton](https://github.com/triton-lang/triton/) | 3.7.0 | python3_ia |
+| [triton](https://github.com/triton-lang/triton/) | 3.7.1 | python3_ia |
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
 | [uvicorn](https://www.uvicorn.org/) | 0.34.2 | python3_ia |
 
