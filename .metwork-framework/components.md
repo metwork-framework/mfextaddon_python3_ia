@@ -19,7 +19,7 @@
 | [flask-cors](https://corydolphin.github.io/flask-cors/) | 6.0.5 | python3_ia |
 | [flatbuffers](https://google.github.io/flatbuffers/) | 25.12.19 | python3_ia |
 | [gitdb](https://github.com/gitpython-developers/gitdb) | 4.0.12 | python3_ia |
-| [GitPython](https://github.com/gitpython-developers/GitPython) | 3.1.50 | python3_ia |
+| [GitPython](https://github.com/gitpython-developers/GitPython) | 3.1.54 | python3_ia |
 | [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 1.2.2 | python3_ia |
 | [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.53.0 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
