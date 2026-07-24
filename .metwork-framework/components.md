@@ -48,8 +48,13 @@
 | [nvidia-nvtx-cu12](https://developer.nvidia.com/cuda-zone) | 12.6.77 | python3_ia |
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
 | [omegaconf](https://github.com/omry/omegaconf) | 2.3.0 | python3_ia |
+<<<<<<< HEAD
 | [onnx](https://onnx.ai/) | 1.21.0 | python3_ia |
 | [onnxruntime](https://onnxruntime.ai) | 1.22.0 | python3_ia |
+=======
+| [onnx](https://onnx.ai/) | 1.22.0 | python3_ia |
+| [onnxruntime](https://onnxruntime.ai) | 1.25.1 | python3_ia |
+>>>>>>> 66c364d (feat: bump onnxruntime from 1.24.4 to 1.25.1 (fix high CVE-2026-27904) (#295))
 | [onnxscript](https://microsoft.github.io/onnxscript/) | 0.2.5 | python3_ia |
 | [opt_einsum](https://pypi.org/project/opt_einsum) | 3.4.0 | python3_ia |
 | [optree](https://github.com/metaopt/optree) | 0.15.0 | python3_ia |
