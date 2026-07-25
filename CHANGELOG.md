@@ -47,5 +47,6 @@
 - bump onnx from 1.21.0 to 1.22.0 (fix moderate CVE-2026-44512) (#287)
 - bump transformers from 5.3.0 to 5.5.4 (fix high CVE-2026-5241)
 - bump torch from 2.12.0 to 2.13.0 (fix low CVE-2025-3000) (#293)
+- bump onnxruntime from 1.24.4 to 1.25.1 (fix high CVE-2026-27904) (#295)
 
 
