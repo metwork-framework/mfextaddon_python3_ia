@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump onnxruntime from 1.24.4 to 1.25.1 (fix high CVE-2026-27904) (#295)
+
 ## v2.3.7 (2026-05-29)
 
 ### New Features
