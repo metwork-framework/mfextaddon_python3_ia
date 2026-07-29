@@ -67,7 +67,7 @@
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
 | [omegaconf](https://github.com/omry/omegaconf) | 2.3.0 | python3_ia |
 | [onnx](https://onnx.ai/) | 1.22.0 | python3_ia |
-| [onnxruntime](https://onnxruntime.ai) | 1.25.1 | python3_ia |
+| [onnxruntime](https://onnxruntime.ai) | 1.28.0 | python3_ia |
 | [onnxscript](https://microsoft.github.io/onnxscript/) | 0.2.5 | python3_ia |
 | [opentelemetry-api](https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-api) | 1.42.1 | python3_ia |
 | [opentelemetry-proto](https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-proto) | 1.42.1 | python3_ia |
