@@ -56,7 +56,7 @@
 | [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.5.1.post0 | python3_ia |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 2.0.0 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
-| [safetensors](https://github.com/huggingface/safetensors) | 0.8.0rc0 | python3_ia |
+| [safetensors](https://github.com/huggingface/safetensors) | 0.8.0 | python3_ia |
 | [segmentation_models_pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) | 0.5.0 | python3_ia |
 | [sentencepiece](https://github.com/google/sentencepiece) | 0.2.1 | python3_ia |
 | [sympy](https://sympy.org) | 1.14.0 | python3_ia |
