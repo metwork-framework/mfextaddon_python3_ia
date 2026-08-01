@@ -49,5 +49,6 @@
 - bump torch from 2.12.0 to 2.13.0 (fix low CVE-2025-3000) (#293)
 - bump onnxruntime from 1.24.4 to 1.25.1 (fix high CVE-2026-27904) (#295)
 - bump onnxruntime from 1.25.1 to 1.28.0 (#297)
+- bump safetensors from 0.8.0rc0 to 0.8.0 (#298)
 
 
