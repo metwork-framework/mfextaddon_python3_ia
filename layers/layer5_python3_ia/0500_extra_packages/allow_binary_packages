@@ -37,6 +37,11 @@ onnxruntime
 onnxscript
 opt-einsum
 optree
+<<<<<<< HEAD
+=======
+protobuf
+pyarrow
+>>>>>>> 5f9cbf5 (feat: add mfai 7.3.0 (#279))
 PyYAML
 requests-oauthlib
 rich
