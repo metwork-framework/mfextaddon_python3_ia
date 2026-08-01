@@ -46,7 +46,7 @@
 | [mlflow-skinny](https://mlflow.org) | 3.14.0 | python3_ia |
 | [mlflow-tracing](https://mlflow.org) | 3.14.0 | python3_ia |
 | [mlflow](https://mlflow.org) | 3.14.0 | python3_ia |
-| [monai](https://monai.io/) | 1.5.2 | python3_ia |
+| [monai](https://project-monai.github.io/) | 1.6.0 | python3_ia |
 | [mpmath](http://mpmath.org/) | 1.3.0 | python3_ia |
 | [namex](https://pypi.org/project/namex) | 0.0.9 | python3_ia |
 | [nvidia-cublas](https://developer.nvidia.com/cuda-zone) | 13.1.1.3 | python3_ia |
