@@ -50,5 +50,6 @@
 - bump onnxruntime from 1.24.4 to 1.25.1 (fix high CVE-2026-27904) (#295)
 - bump onnxruntime from 1.25.1 to 1.28.0 (#297)
 - bump safetensors from 0.8.0rc0 to 0.8.0 (#298)
+- bump monai from 1.5.2 to 1.6.0 (fix high GHSA-89gg-p5r5-q6r4)
 
 
