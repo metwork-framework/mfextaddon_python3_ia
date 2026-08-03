@@ -31,7 +31,7 @@
 | [hf-xet](https://github.com/huggingface/xet-core) | 1.4.3 | python3_ia |
 | [huey](https://pypi.org/project/huey) | 3.0.3 | python3_ia |
 | [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 1.5.0 | python3_ia |
-| [hydra-core](https://github.com/facebookresearch/hydra) | 1.3.2 | python3_ia |
+| [hydra-core](https://github.com/facebookresearch/hydra) | 1.3.4 | python3_ia |
 | [jsonargparse](https://pypi.org/project/jsonargparse) | 4.46.0 | python3_ia |
 | [jsonnet](https://jsonnet.org) | 0.21.0 | python3_ia |
 | [keras](https://pypi.org/project/keras) | 3.14.1 | python3_ia |
