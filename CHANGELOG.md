@@ -51,5 +51,7 @@
 - bump onnxruntime from 1.25.1 to 1.28.0 (#297)
 - bump safetensors from 0.8.0rc0 to 0.8.0 (#298)
 - bump monai from 1.5.2 to 1.6.0 (fix high GHSA-89gg-p5r5-q6r4)
+- bump hydra-core from 1.3.2 to 1.3.4 (#303)
+- bump omegaconf from 2.3.0 to 2.3.1
 
 
