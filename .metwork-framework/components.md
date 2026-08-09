@@ -20,11 +20,7 @@
 | [importlib_resources](https://pypi.org/project/importlib_resources) | 6.5.2 | python3_ia |
 | [jsonargparse](https://pypi.org/project/jsonargparse) | 4.46.0 | python3_ia |
 | [jsonnet](https://jsonnet.org) | 0.21.0 | python3_ia |
-<<<<<<< HEAD
-| [keras](https://pypi.org/project/keras) | 3.13.2 | python3_ia |
-=======
 | [keras](https://pypi.org/project/keras) | 3.15.1 | python3_ia |
->>>>>>> 599eb81 (feat: bump keras from 3.14.1 to 3.15.1 (fix 2 high CVE) (#309))
 | [libclang](https://github.com/sighingnow/libclang) | 18.1.1 | python3_ia |
 | [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.14.3 | python3_ia |
 | [lightning](https://github.com/Lightning-AI/lightning) | 2.5.1.post0 | python3_ia |
