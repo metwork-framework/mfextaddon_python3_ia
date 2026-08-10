@@ -53,5 +53,6 @@
 - bump monai from 1.5.2 to 1.6.0 (fix high GHSA-89gg-p5r5-q6r4)
 - bump hydra-core from 1.3.2 to 1.3.4 (#303)
 - bump omegaconf from 2.3.0 to 2.3.1
+- bump keras from 3.14.1 to 3.15.1 (fix 2 high CVE) (#309)
 
 
