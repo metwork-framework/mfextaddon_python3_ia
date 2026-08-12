@@ -29,10 +29,11 @@ import huggingface_hub
 import hydra #hydra-core
 import jsonargparse
 import _jsonnet #jsonnet
-import keras
+#import keras not Python 3.14 compliant
 import clang #libclang
 import lightning_fabric
 import lightning_utilities
+import lightning_fabric
 import lightning
 import marshmallow
 #import mfai
@@ -49,7 +50,7 @@ import nvidia
 import oauthlib
 import omegaconf
 import onnx
-import onnxruntime
+#import onnxruntime not Python 3.14 compliant
 import onnxscript
 import opentelemetry #opentelemetry_api
 import opt_einsum
@@ -70,7 +71,6 @@ import tabulate
 import tensorboard_data_server
 import tensorboard
 import tensorboardX
-import tensorflow
 import tf_keras
 import tiktoken
 import timm
