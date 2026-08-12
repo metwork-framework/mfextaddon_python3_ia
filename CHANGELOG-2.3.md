@@ -1,5 +1,13 @@
 # release_2.3 CHANGELOG
 
+## v2.3.7 (2026-05-29)
+
+### New Features
+
+- bump onnx from 1.20.1 to 1.21.0 (fix CVE-2026-34445/28500) (#262)
+- bump diffusers to 0.38.0 (fix high CVE-2026-44513/CVE-2026-45804) (backport #269) (#270)
+- bump huggingface_hub to 0.34.6 (compat diffusers 0.38.0) (#271)
+
 ## v2.3.6 (2026-02-13)
 
 ### New Features
