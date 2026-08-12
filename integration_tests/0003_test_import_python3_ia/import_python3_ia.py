@@ -29,7 +29,7 @@ import huggingface_hub
 import hydra #hydra-core
 import jsonargparse
 import _jsonnet #jsonnet
-#import keras not Python 3.14 compliant
+import keras
 import clang #libclang
 import lightning_fabric
 import lightning_utilities
@@ -50,7 +50,7 @@ import nvidia
 import oauthlib
 import omegaconf
 import onnx
-#import onnxruntime not Python 3.14 compliant
+import onnxruntime
 import onnxscript
 import opentelemetry #opentelemetry_api
 import opt_einsum
