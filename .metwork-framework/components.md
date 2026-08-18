@@ -81,7 +81,7 @@
 | [sentencepiece](https://github.com/google/sentencepiece) | 0.2.1 | python3_ia |
 | [skops](http://github.com/skops-dev/skops) | 0.14.0 | python3_ia |
 | [smmap](https://github.com/gitpython-developers/smmap) | 5.0.2 | python3_ia |
-| [sqlparse](https://pypi.org/project/sqlparse) | 0.5.5 | python3_ia |
+| [sqlparse](https://pypi.org/project/sqlparse) | 0.6.0 | python3_ia |
 | [starlette](https://github.com/Kludex/starlette) | 1.3.1 | python3_ia |
 | [sympy](https://sympy.org) | 1.14.0 | python3_ia |
 | [tabulate](https://github.com/astanin/python-tabulate) | 0.9.0 | python3_ia |
