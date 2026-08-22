@@ -56,5 +56,6 @@
 - bump keras from 3.14.1 to 3.15.1 (fix 2 high CVE) (#309)
 - bump sqlparse from 0.5.5 to 0.6.0 (fix 3 high CVE) (#314)
 - add mfai 8.0.0 (release 7.3.0 had been temporarly removed) (#316)
+- bump hydra-core from 1.3.4 to 1.3.5 (#317)
 
 
