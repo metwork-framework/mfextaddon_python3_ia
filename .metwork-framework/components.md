@@ -29,7 +29,7 @@
 | [lightning](https://github.com/Lightning-AI/lightning) | 2.6.5 | python3_ia |
 | [lit](http://llvm.org) | 18.1.8 | python3_ia |
 | [marshmallow](https://pypi.org/project/marshmallow) | 3.26.2 | python3_ia |
-| [mfai](https://github.com/meteofrance/mfai) | 8.0.0 | python3_ia |
+| [mfai](https://github.com/meteofrance/mfai) | 8.0.2 | python3_ia |
 | [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.6.0 | python3_ia |
 | [monai](https://project-monai.github.io/) | 1.6.0 | python3_ia |
 | [mpmath](http://mpmath.org/) | 1.3.0 | python3_ia |
@@ -67,8 +67,6 @@
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.2 | python3_ia |
 | [tensorboard](https://github.com/tensorflow/tensorboard) | 2.20.0 | python3_ia |
 | [tensorboardX](https://github.com/lanpa/tensorboardX) | 2.6.5 | python3_ia |
-| [tensorflow](https://www.tensorflow.org/) | 2.21.0 | python3_ia |
-| [tf_keras](https://keras.io/) | 2.21.0 | python3_ia |
 | [tiktoken](https://github.com/openai/tiktoken) | 0.12.0 | python3_ia |
 | [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.22 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.23.1 | python3_ia |
@@ -80,4 +78,4 @@
 | [triton](https://github.com/triton-lang/triton/) | 3.7.1 | python3_ia |
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
 
-*(79 components)*
+*(77 components)*
