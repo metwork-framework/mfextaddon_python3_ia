@@ -52,7 +52,7 @@
 | [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
 | [omegaconf](https://github.com/omry/omegaconf) | 2.3.1 | python3_ia |
 | [onnx](https://onnx.ai/) | 1.22.0 | python3_ia |
-| [onnxruntime](https://onnxruntime.ai) | 1.28.0 | python3_ia |
+| [onnxruntime](https://onnxruntime.ai) | 1.29.0 | python3_ia |
 | [onnxscript](https://microsoft.github.io/onnxscript/) | 0.2.5 | python3_ia |
 | [opt_einsum](https://pypi.org/project/opt_einsum) | 3.4.0 | python3_ia |
 | [optree](https://github.com/metaopt/optree) | 0.18.0 | python3_ia |
