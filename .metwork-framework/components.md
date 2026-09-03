@@ -19,7 +19,7 @@
 | [grpcio](https://grpc.io) | 1.76.0 | python3_ia |
 | [hf-xet](https://github.com/huggingface/xet-core) | 1.4.3 | python3_ia |
 | [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 1.5.0 | python3_ia |
-| [hydra-core](https://github.com/facebookresearch/hydra) | 1.3.4 | python3_ia |
+| [hydra-core](https://github.com/facebookresearch/hydra) | 1.3.5 | python3_ia |
 | [jsonargparse](https://pypi.org/project/jsonargparse) | 4.46.0 | python3_ia |
 | [jsonnet](https://jsonnet.org) | 0.21.0 | python3_ia |
 | [keras](https://pypi.org/project/keras) | 3.15.1 | python3_ia |
@@ -30,7 +30,7 @@
 | [lit](http://llvm.org) | 18.1.8 | python3_ia |
 | [marshmallow](https://pypi.org/project/marshmallow) | 3.26.2 | python3_ia |
 | [mfai](https://github.com/meteofrance/mfai) | 8.0.2 | python3_ia |
-| [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.5.4 | python3_ia |
+| [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.6.0 | python3_ia |
 | [monai](https://project-monai.github.io/) | 1.6.0 | python3_ia |
 | [mpmath](http://mpmath.org/) | 1.3.0 | python3_ia |
 | [namex](https://pypi.org/project/namex) | 0.0.9 | python3_ia |
@@ -69,12 +69,12 @@
 | [tensorboardX](https://github.com/lanpa/tensorboardX) | 2.6.5 | python3_ia |
 | [tiktoken](https://github.com/openai/tiktoken) | 0.12.0 | python3_ia |
 | [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.22 | python3_ia |
-| [tokenizers](https://github.com/huggingface/tokenizers) | 0.22.2 | python3_ia |
+| [tokenizers](https://github.com/huggingface/tokenizers) | 0.23.1 | python3_ia |
 | [torch-geometric](https://pyg.org) | 2.7.0 | python3_ia |
 | [torch](https://pytorch.org) | 2.13.0 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.9.0 | python3_ia |
 | [torchvision](https://github.com/pytorch/vision) | 0.28.0 | python3_ia |
-| [transformers](https://github.com/huggingface/transformers) | 5.5.4 | python3_ia |
+| [transformers](https://github.com/huggingface/transformers) | 5.16.1 | python3_ia |
 | [triton](https://github.com/triton-lang/triton/) | 3.7.1 | python3_ia |
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
 
