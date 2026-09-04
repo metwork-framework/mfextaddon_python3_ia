@@ -59,5 +59,6 @@
 - bump hydra-core from 1.3.4 to 1.3.5 (#317)
 - bump ml_dtypes from 0.5.4 to 0.6.0 (#318)
 - bump transformers from 5.5.4 to 5.16.1 (fix high CVE-2026-9856) (#320)
+- bump onnxruntime from 1.28.0 to 1.29.0 (#322)
 
 
