@@ -8,5 +8,6 @@
 - add onnxruntime 1.24.4 (now Python 3.14 compliant)
 - use torch as backend for keras (tensorflow not available)
 - reintroduce mfai 8.0.2
+- bump lightning from 2.6.5 to 2.6.6 (fix high CVE-2026-58659)
 
 
