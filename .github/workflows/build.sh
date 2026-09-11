@@ -18,7 +18,14 @@ rm -rf html_doc rpms .build_hash
     if test "${OS_VERSION}" = "centos8"; then export METWORK_BUILD_OS=generic; else export METWORK_BUILD_OS=${OS_VERSION}; fi
 
 
-    yum install -y metwork-mfext-layer-python3_scientific-${BRANCH##release_}
+case "${BRANCH}" in
+    ci* | pci*)
+        export DEP_BRANCH=integration;;
+    *)
+        export DEP_BRANCH=${BRANCH};;
+esac
+
+    yum install -y metwork-mfext-layer-python3_scientific-${DEP_BRANCH##release_}
 
 
 
