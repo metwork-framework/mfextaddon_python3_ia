@@ -20,14 +20,8 @@ jsonargparse==4.46.0
 jsonnet==0.21.0
 keras==3.15.1
 libclang==18.1.1
-<<<<<<< HEAD
-lightning==2.5.1.post0
-lightning-utilities==0.14.3
-=======
 lightning==2.6.6
-lightning-fabric==2.6.6
-lightning-utilities==0.15.3
->>>>>>> 8700f46 (feat: bump lightning from 2.6.5 to 2.6.6 (fix high CVE-2026-58659))
+lightning-utilities==0.14.3
 lit==18.1.8
 marshmallow==3.26.2
 mfai==6.3.0
@@ -56,13 +50,8 @@ onnx==1.21.0
 onnxruntime==1.25.1
 onnxscript==0.2.5
 opt-einsum==3.4.0
-<<<<<<< HEAD
 optree==0.15.0
-pytorch-lightning==2.5.1.post0
-=======
-optree==0.18.0
 pytorch-lightning==2.6.6
->>>>>>> 8700f46 (feat: bump lightning from 2.6.5 to 2.6.6 (fix high CVE-2026-58659))
 requests-oauthlib==2.0.0
 rsa==4.9
 safetensors==0.8.0
