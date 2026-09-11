@@ -12,7 +12,6 @@ OK_NOT_FOUND=$(cat list_ok_not_found.txt|grep -v "#"|xargs)
 
 export PATH=${PATH}:${PWD}/..
 RET=0
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib64/openmpi/lib
 
 
 
