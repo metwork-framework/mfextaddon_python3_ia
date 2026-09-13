@@ -38,14 +38,14 @@
 | [nvidia-cuda-cupti](https://developer.nvidia.com/cuda-zone) | 13.0.85 | python3_ia |
 | [nvidia-cuda-nvrtc](https://developer.nvidia.com/cuda-zone) | 13.0.88 | python3_ia |
 | [nvidia-cuda-runtime](https://developer.nvidia.com/cuda-zone) | 13.0.96 | python3_ia |
-| [nvidia-cudnn-cu13](https://developer.nvidia.com/cuda-zone) | 9.20.0.48 | python3_ia |
+| [nvidia-cudnn-cu13](https://developer.nvidia.com/cuda-zone) | 9.24.0.43 | python3_ia |
 | [nvidia-cufft](https://developer.nvidia.com/cuda-zone) | 12.0.0.61 | python3_ia |
 | [nvidia-cufile](https://developer.nvidia.com/cuda-zone) | 1.15.1.6 | python3_ia |
 | [nvidia-curand](https://developer.nvidia.com/cuda-zone) | 10.4.0.35 | python3_ia |
 | [nvidia-cusolver](https://developer.nvidia.com/cuda-zone) | 12.0.4.66 | python3_ia |
 | [nvidia-cusparse](https://developer.nvidia.com/cuda-zone) | 12.6.3.3 | python3_ia |
 | [nvidia-cusparselt-cu13](https://developer.nvidia.com/cusparselt) | 0.8.1 | python3_ia |
-| [nvidia-nccl-cu13](https://developer.nvidia.com/cuda-zone) | 2.29.7 | python3_ia |
+| [nvidia-nccl-cu13](https://developer.nvidia.com/cuda-zone) | 2.30.7 | python3_ia |
 | [nvidia-nvjitlink](https://developer.nvidia.com/cuda-zone) | 13.0.88 | python3_ia |
 | [nvidia-nvshmem-cu13](https://developer.nvidia.com/cuda-zone) | 3.4.5 | python3_ia |
 | [nvidia-nvtx](https://developer.nvidia.com/cuda-zone) | 13.0.85 | python3_ia |
@@ -71,11 +71,11 @@
 | [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.22 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.23.1 | python3_ia |
 | [torch-geometric](https://pyg.org) | 2.7.0 | python3_ia |
-| [torch](https://pytorch.org) | 2.13.0 | python3_ia |
+| [torch](https://pytorch.org) | 2.14.0 | python3_ia |
 | [torchmetrics](https://github.com/Lightning-AI/torchmetrics) | 1.9.0 | python3_ia |
-| [torchvision](https://github.com/pytorch/vision) | 0.28.0 | python3_ia |
+| [torchvision](https://github.com/pytorch/vision) | 0.29.0 | python3_ia |
 | [transformers](https://github.com/huggingface/transformers) | 5.16.1 | python3_ia |
-| [triton](https://github.com/triton-lang/triton/) | 3.7.1 | python3_ia |
+| [triton](https://github.com/triton-lang/triton/) | 3.8.0 | python3_ia |
 | [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) | 2.8.2 | python3_ia |
 
 *(77 components)*
