@@ -23,7 +23,7 @@
 | [keras](https://pypi.org/project/keras) | 3.15.1 | python3_ia |
 | [libclang](https://github.com/sighingnow/libclang) | 18.1.1 | python3_ia |
 | [lightning-utilities](https://github.com/Lightning-AI/utilities) | 0.14.3 | python3_ia |
-| [lightning](https://github.com/Lightning-AI/lightning) | 2.5.1.post0 | python3_ia |
+| [lightning](https://github.com/Lightning-AI/lightning) | 2.6.6 | python3_ia |
 | [lit](http://llvm.org) | 18.1.8 | python3_ia |
 | [marshmallow](https://pypi.org/project/marshmallow) | 3.26.2 | python3_ia |
 | [mfai](https://github.com/meteofrance/mfai) | 6.3.0 | python3_ia |
@@ -53,7 +53,7 @@
 | [onnxscript](https://microsoft.github.io/onnxscript/) | 0.2.5 | python3_ia |
 | [opt_einsum](https://pypi.org/project/opt_einsum) | 3.4.0 | python3_ia |
 | [optree](https://github.com/metaopt/optree) | 0.15.0 | python3_ia |
-| [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.5.1.post0 | python3_ia |
+| [pytorch-lightning](https://github.com/Lightning-AI/lightning) | 2.6.6 | python3_ia |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib) | 2.0.0 | python3_ia |
 | [rsa](https://stuvel.eu/rsa) | 4.9 | python3_ia |
 | [safetensors](https://github.com/huggingface/safetensors) | 0.8.0 | python3_ia |
