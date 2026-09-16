@@ -7,6 +7,7 @@
 - bump onnxruntime from 1.24.4 to 1.25.1 (fix high CVE-2026-27904) (#295)
 - bump safetensors from 0.8.0rc0 to 0.8.0 (backport #298) (#299)
 - bump keras from 3.14.1 to 3.15.1 (fix 2 high CVE) (#309)
+- bump lightning from 2.6.5 to 2.6.6 (fix high CVE-2026-58659)
 
 ## v2.3.7 (2026-05-29)
 
