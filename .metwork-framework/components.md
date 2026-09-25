@@ -67,7 +67,7 @@
 | [tensorboard-data-server](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server) | 0.7.2 | python3_ia |
 | [tensorboard](https://github.com/tensorflow/tensorboard) | 2.20.0 | python3_ia |
 | [tensorboardX](https://github.com/lanpa/tensorboardX) | 2.6.5 | python3_ia |
-| [tiktoken](https://github.com/openai/tiktoken) | 0.12.0 | python3_ia |
+| [tiktoken](https://github.com/openai/tiktoken) | 0.14.0 | python3_ia |
 | [timm](https://github.com/huggingface/pytorch-image-models) | 1.0.22 | python3_ia |
 | [tokenizers](https://github.com/huggingface/tokenizers) | 0.23.1 | python3_ia |
 | [torch-geometric](https://pyg.org) | 2.7.0 | python3_ia |
