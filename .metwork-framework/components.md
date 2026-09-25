@@ -16,7 +16,7 @@
 | [google-auth-oauthlib](https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib) | 1.2.2 | python3_ia |
 | [google-auth](https://github.com/googleapis/google-auth-library-python) | 2.53.0 | python3_ia |
 | [google-pasta](https://github.com/google/pasta) | 0.2.0 | python3_ia |
-| [grpcio](https://grpc.io) | 1.76.0 | python3_ia |
+| [grpcio](https://grpc.io) | 1.84.0 | python3_ia |
 | [hf-xet](https://github.com/huggingface/xet-core) | 1.4.3 | python3_ia |
 | [huggingface_hub](https://github.com/huggingface/huggingface_hub) | 1.5.0 | python3_ia |
 | [hydra-core](https://github.com/facebookresearch/hydra) | 1.3.7 | python3_ia |

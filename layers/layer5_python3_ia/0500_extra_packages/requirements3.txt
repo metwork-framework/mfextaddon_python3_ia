@@ -14,7 +14,7 @@ flatbuffers==25.12.19
 google-auth==2.53.0
 google-auth-oauthlib==1.2.2
 google-pasta==0.2.0
-grpcio==1.76.0
+grpcio==1.84.0
 hf_xet==1.4.3
 huggingface_hub==1.5.0
 hydra-core==1.3.7
