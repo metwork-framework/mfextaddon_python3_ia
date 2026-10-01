@@ -49,7 +49,7 @@
 | [nvidia-nvjitlink](https://developer.nvidia.com/cuda-zone) | 13.0.88 | python3_ia |
 | [nvidia-nvshmem-cu13](https://developer.nvidia.com/cuda-zone) | 3.4.5 | python3_ia |
 | [nvidia-nvtx](https://developer.nvidia.com/cuda-zone) | 13.0.85 | python3_ia |
-| [oauthlib](https://github.com/oauthlib/oauthlib) | 3.2.2 | python3_ia |
+| [oauthlib](https://github.com/oauthlib/oauthlib) | 4.0.0 | python3_ia |
 | [omegaconf](https://github.com/omry/omegaconf) | 2.3.1 | python3_ia |
 | [onnx](https://onnx.ai/) | 1.22.0 | python3_ia |
 | [onnxruntime](https://onnxruntime.ai) | 1.29.0 | python3_ia |
