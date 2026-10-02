@@ -14,5 +14,6 @@
 - bump grpcio from 1.76.0 to 1.84.0 (compat. Python 3.15)
 - bump grpcio from 1.76.0 to 1.84.0 (compat. Python 3.15) (#330)
 - bump tiktoken from 0.12.0 to 0.14.0 (compat. Python 3.15)
+- bump oauthlib from 3.2.2 to 4.0.0 (fix 2 moderate CVE) (#333)
 
 
