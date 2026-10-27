@@ -42,7 +42,6 @@ opt-einsum
 optree
 protobuf
 pyarrow
-PyYAML
 requests-oauthlib
 rich
 rsa
