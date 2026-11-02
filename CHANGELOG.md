@@ -71,5 +71,7 @@
 - bump grpcio from 1.76.0 to 1.84.0 (compat. Python 3.15) (#330)
 - bump tiktoken from 0.12.0 to 0.14.0 (compat. Python 3.15)
 - bump oauthlib from 3.2.2 to 4.0.0 (fix 2 moderate CVE) (#333)
+- bump onnx from 1.22.0 to 1.23.2 (fix 3 medium CVE) (backport #335) (#336)
+- bump hydra-core from 1.3.7 to 1.3.8 (fix high GHSA-WF6J-7HVR-GR93) (backport #337) (#338)
 
 
