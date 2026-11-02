@@ -29,7 +29,7 @@ lit==18.1.8
 marshmallow==3.26.2
 mfai==8.0.2
 ml-dtypes==0.6.0
-monai==1.6.0
+monai==1.6.1
 mpmath==1.3.0
 namex==0.0.9
 nvidia_cublas==13.1.1.3
