@@ -31,7 +31,7 @@
 | [marshmallow](https://pypi.org/project/marshmallow) | 3.26.2 | python3_ia |
 | [mfai](https://github.com/meteofrance/mfai) | 8.0.2 | python3_ia |
 | [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.6.0 | python3_ia |
-| [monai](https://project-monai.github.io/) | 1.6.0 | python3_ia |
+| [monai](https://project-monai.github.io/) | 1.6.1 | python3_ia |
 | [mpmath](http://mpmath.org/) | 1.3.0 | python3_ia |
 | [namex](https://pypi.org/project/namex) | 0.0.9 | python3_ia |
 | [nvidia-cublas](https://developer.nvidia.com/cuda-zone) | 13.1.1.3 | python3_ia |
