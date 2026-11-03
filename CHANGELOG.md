@@ -73,5 +73,6 @@
 - bump oauthlib from 3.2.2 to 4.0.0 (fix 2 moderate CVE) (#333)
 - bump onnx from 1.22.0 to 1.23.2 (fix 3 medium CVE) (backport #335) (#336)
 - bump hydra-core from 1.3.7 to 1.3.8 (fix high GHSA-WF6J-7HVR-GR93) (backport #337) (#338)
+- bump monai from 1.6.0 to 1.6.1 (fix critical CVE-2026-48705) (backport #340) (#341)
 
 
