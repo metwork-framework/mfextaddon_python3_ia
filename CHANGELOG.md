@@ -1,6 +1,6 @@
 # release_2.3 CHANGELOG
 
-## [Unreleased]
+## v2.3.8 (2026-09-16)
 
 ### New Features
 
