@@ -53,3 +53,4 @@ torch
 tensorflow-io
 torchvision
 triton
+yarl
