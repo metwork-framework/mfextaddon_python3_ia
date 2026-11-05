@@ -27,7 +27,7 @@ lightning-fabric==2.6.6
 lightning-utilities==0.15.3
 lit==18.1.8
 marshmallow==3.26.2
-mfai==8.0.2
+mfai==9.1.0
 ml-dtypes==0.6.0
 monai==1.6.1
 mpmath==1.3.0

@@ -29,7 +29,7 @@
 | [lightning](https://github.com/Lightning-AI/lightning) | 2.6.6 | python3_ia |
 | [lit](http://llvm.org) | 18.1.8 | python3_ia |
 | [marshmallow](https://pypi.org/project/marshmallow) | 3.26.2 | python3_ia |
-| [mfai](https://github.com/meteofrance/mfai) | 8.0.2 | python3_ia |
+| [mfai](https://github.com/meteofrance/mfai) | 9.1.0 | python3_ia |
 | [ml_dtypes](https://github.com/jax-ml/ml_dtypes) | 0.6.0 | python3_ia |
 | [monai](https://project-monai.github.io/) | 1.6.1 | python3_ia |
 | [mpmath](http://mpmath.org/) | 1.3.0 | python3_ia |
