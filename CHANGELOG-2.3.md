@@ -1,5 +1,22 @@
 # release_2.3 CHANGELOG
 
+## v2.3.8 (2026-09-16)
+
+### New Features
+
+- bump onnxruntime from 1.24.4 to 1.25.1 (fix high CVE-2026-27904) (#295)
+- bump safetensors from 0.8.0rc0 to 0.8.0 (backport #298) (#299)
+- bump keras from 3.14.1 to 3.15.1 (fix 2 high CVE) (#309)
+- bump lightning from 2.6.5 to 2.6.6 (fix high CVE-2026-58659)
+
+## v2.3.7 (2026-05-29)
+
+### New Features
+
+- bump onnx from 1.20.1 to 1.21.0 (fix CVE-2026-34445/28500) (#262)
+- bump diffusers to 0.38.0 (fix high CVE-2026-44513/CVE-2026-45804) (backport #269) (#270)
+- bump huggingface_hub to 0.34.6 (compat diffusers 0.38.0) (#271)
+
 ## v2.3.6 (2026-02-13)
 
 ### New Features
